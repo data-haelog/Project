@@ -1,7 +1,7 @@
 ## 프로젝트 목표
 - Netflix 콘텐츠 추가 전략 및 트렌드 분석
 - 데이터 기반 콘텐츠 추천 시스템 구축
-- 인터랙티브 대시보드 및 자동화된 분석 보고서 생성
+- 인터랙티브 대시보드 및 분석 보고서 생성
 
 ## 데이터셋
 - **출처**: [Kaggle - Netflix Shows Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
@@ -91,4 +91,5 @@ NETFLIX/
 
 ### 5. 추천 시스템
 - **유사도 정확도**: 평균 코사인 유사도 0.42
+
 - **추천 성능**: 동일 장르 매칭률 80%+
