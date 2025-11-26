@@ -1,7 +1,7 @@
 # 광고 클릭 예측 머신러닝 프로젝트
 
 **프로젝트명**
-광고 클릭 예측 시스템 (Ad Click Prediction System with Machine Learning)
+광고 클릭 예측 시스템 (Ad Click Prediction System)
 
 **개발개요**
 - **프로젝트 기간**: 2025.01.01 ~ 2025.02.04 (5주)
@@ -170,4 +170,5 @@ Ad
 - 재사용 가능한 모듈 구조 설계 (src 폴더)
 - config.py를 통한 설정 관리
 - main.py 통합 실행 파일 작성
+
 - README.md 및 주석 작성
