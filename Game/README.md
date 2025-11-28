@@ -1,6 +1,4 @@
-# 보드게임 추천 시스템 (BoardGame Recommendation System)
-
-AI 기반 보드게임 추천 시스템 
+## AI 기반 보드게임 추천 시스템 
 - (PyTorch Neural Collaborative Filtering + 2-bit Quantization)
 
 ## 프로젝트 개요
@@ -380,6 +378,7 @@ MIT License
 ### 데이터 출처
 - BoardGameGeek (BGG) 데이터셋
 - 1,894만 개 사용자 평점
+
 
 
 
