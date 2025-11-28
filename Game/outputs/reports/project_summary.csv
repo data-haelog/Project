@@ -1,0 +1,11 @@
+Metric,Value
+Total Ratings,"18,942,215"
+Filtered Ratings,"14,733,960"
+Users,"93,637"
+Games,"12,302"
+Best Baseline RMSE,1.1960
+NCF RMSE,1.1061
+Improvement (%),7.52
+Original Size (MB),25.97
+2-bit Size (MB),1.72
+Compression (%),93.4

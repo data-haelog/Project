@@ -1,0 +1,5 @@
+Dataset,Rows,Columns,Missing Values
+games,21925,48,26701
+user_ratings,18942215,3,63
+ratings_distribution,21925,96,0
+mechanics,21925,158,0
