@@ -49,6 +49,7 @@ Game/
 │   ├── models/                     # 학습된 모델
 │   │   ├── baseline_models.pkl              # Baseline 모델
 │   │   ├── ncf_model.pth                    # NCF 모델 (FP32)
+│   │   ├── ncf_model_best
 │   │   └── ncf_model_int8.pth               # NCF 모델 (INT8)
 │   │
 │   └── reports/                    # 분석 보고서
@@ -379,6 +380,7 @@ MIT License
 ### 데이터 출처
 - BoardGameGeek (BGG) 데이터셋
 - 1,894만 개 사용자 평점
+
 
 
 
