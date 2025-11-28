@@ -34,7 +34,7 @@ Game/
 │   └── 05_Evaluation.ipynb         # 종합 평가
 │
 ├── outputs/
-│   ├── figures/                    # 시각화 (10개 그래프)
+│   ├── figures/                    # 시각화
 │   │   ├── 01_rating_analysis.png           # 평점 분포
 │   │   ├── 02_sparsity_segments.png        # 데이터 희소성
 │   │   ├── 03_baseline_comparison.png      # Baseline 비교
@@ -59,8 +59,8 @@ Game/
 │       ├── project_summary.csv              # 프로젝트 요약
 │       └── Final_Report.md                  # 최종 보고서
 │
-├── README.md                       # 프로젝트 문서 (현재 파일)
-└── requirements.txt                # Python 패키지 목록
+├── README.md                       # 프로젝트 문서 
+
 ```
 
 ---
@@ -379,5 +379,6 @@ MIT License
 ### 데이터 출처
 - BoardGameGeek (BGG) 데이터셋
 - 1,894만 개 사용자 평점
+
 
 
