@@ -1,0 +1,862 @@
+id,gender,masterCategory,subCategory,articleType,baseColour,season,year,usage,productDisplayName,image_path
+10268,Men,Footwear,Shoes,Formal Shoes,Black,Fall,2012.0,Formal,Clarks Men Hang Work Leather Black Formal Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10268.jpg
+10866,Men,Apparel,Topwear,Tshirts,Red,Fall,2011.0,Casual,Wrangler Men Motor Rider Red T-Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10866.jpg
+10065,Men,Apparel,Topwear,Tshirts,Yellow,Fall,2011.0,Casual,Puma Men ducati logo tee Yellow Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10065.jpg
+10859,Men,Apparel,Topwear,Tshirts,Navy Blue,Fall,2011.0,Casual,Wrangler Men Furious Rides Navy Blue T-Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10859.jpg
+10257,Men,Apparel,Bottomwear,Trousers,Black,Fall,2011.0,Formal,John Miller Men Solid Type Black Trousers,C:\Users\color\Desktop\fashion-recommendation\data\images\10257.jpg
+10633,Men,Footwear,Shoes,Formal Shoes,Brown,Fall,2011.0,Formal,Carlton London Men Formal Brown Formal Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10633.jpg
+10401,Women,Apparel,Topwear,Tops,Purple,Fall,2011.0,Casual,Jealous 21 Women Uaine Purple Tops,C:\Users\color\Desktop\fashion-recommendation\data\images\10401.jpg
+10861,Men,Apparel,Topwear,Tshirts,White,Fall,2011.0,Casual,Wrangler Men Dirt Riders White T-Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10861.jpg
+10439,Men,Apparel,Topwear,Tshirts,Brown,Fall,2011.0,Casual,Flying Machine Men Walnut Brown Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10439.jpg
+10096,Women,Footwear,Shoes,Sports Shoes,Blue,Fall,2011.0,Sports,Reebok Women Reeflex Run Blue Sports Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10096.jpg
+10406,Women,Apparel,Dress,Dresses,Grey,Fall,2011.0,Casual,United Colors of Benetton Women Solid Grey Dresses,C:\Users\color\Desktop\fashion-recommendation\data\images\10406.jpg
+10634,Men,Footwear,Shoes,Formal Shoes,Black,Winter,2012.0,Formal,Carlton London Men Black Oxford Wingtip Brogues,C:\Users\color\Desktop\fashion-recommendation\data\images\10634.jpg
+10250,Women,Accessories,Bags,Handbags,Brown,Winter,2015.0,Casual,Murcia Women Hahk Brown Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10250.jpg
+10062,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011.0,Casual,Puma Men Puma runhard tee Grey Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10062.jpg
+10857,Men,Apparel,Topwear,Tshirts,White,Fall,2011.0,Casual,Wrangler Men Rider Striper Polo White T-Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10857.jpg
+10259,Men,Apparel,Bottomwear,Trousers,Black,Fall,2011.0,Formal,John Miller Men Reglur Black Trousers,C:\Users\color\Desktop\fashion-recommendation\data\images\10259.jpg
+10292,Women,Footwear,Shoes,Heels,Brown,Summer,2015.0,Casual,Clarks Women Brown Leather Heels,C:\Users\color\Desktop\fashion-recommendation\data\images\10292.jpg
+10266,Men,Footwear,Shoes,Casual Shoes,Brown,Fall,2011.0,Casual,Clarks Men Goto Hi Cola Suede Brown Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10266.jpg
+10054,Boys,Apparel,Topwear,Tshirts,Blue,Summer,2011.0,Sports,Reebok Kids Kkr Boy's Premium Blue Jerseys,C:\Users\color\Desktop\fashion-recommendation\data\images\10054.jpg
+10430,Men,Apparel,Topwear,Shirts,Blue,Fall,2011.0,Casual,Flying Machine Men Ydc Blue Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10430.jpg
+10602,Men,Apparel,Topwear,Tshirts,Red,Fall,2011.0,Sports,Nike Men Football Soccer Red Jerseys,C:\Users\color\Desktop\fashion-recommendation\data\images\10602.jpg
+10850,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011.0,Casual,Wrangler Men Famous Filafil Blue T-Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10850.jpg
+10408,Women,Apparel,Topwear,Tops,Black,Fall,2011.0,Casual,United Colors of Benetton Women Solid Black Tops,C:\Users\color\Desktop\fashion-recommendation\data\images\10408.jpg
+10098,Men,Accessories,Watches,Watches,White,Winter,2016.0,Casual,Fastrack Men Analogue Plastic White Watch,C:\Users\color\Desktop\fashion-recommendation\data\images\10098.jpg
+10605,Women,Accessories,Watches,Watches,Pink,Winter,2016.0,Casual,Esprit Women Houston Funny Pink Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10605.jpg
+10437,Men,Apparel,Topwear,Shirts,Green,Fall,2011.0,Casual,Flying Machine Men HS Green Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10437.jpg
+10053,Women,Apparel,Topwear,Tshirts,Pink,Summer,2011.0,Casual,Gini And Jony Vini Romper Pink T-Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10053.jpg
+10261,Men,Apparel,Bottomwear,Trousers,Brown,Fall,2011.0,Formal,John Miller Men Slim Brown Trousers,C:\Users\color\Desktop\fashion-recommendation\data\images\10261.jpg
+10295,Men,Footwear,Shoes,Casual Shoes,Brown,Summer,2016.0,Casual,Clarks Men Brown Leather Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10295.jpg
+10463,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011.0,Casual,Flying Machine Men Grey Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10463.jpg
+10235,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Carrera Men Hexagaon Dial Black Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10235.jpg
+10007,Women,Apparel,Topwear,Tshirts,White,Fall,2011.0,Sports,Nike Women As Trophy Swo White T-Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10007.jpg
+10497,Women,Apparel,Topwear,Tshirts,White,Fall,2011.0,Casual,Flying Machine Women RN HS White Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10497.jpg
+10804,Men,Footwear,Flip Flops,Flip Flops,White,Fall,2011.0,Casual,Wrangler Men Rider Solid White Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10804.jpg
+10490,Men,Apparel,Topwear,Shirts,Navy Blue,Fall,2011.0,Casual,Flying Machine Men HS Blue Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10490.jpg
+10000,Women,Apparel,Bottomwear,Skirts,White,Summer,2011.0,Casual,Palm Tree Girls Sp Jace Sko White Skirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10000.jpg
+10656,Women,Apparel,Topwear,Tops,Pink,Fall,2011.0,Casual,Doodle Girl Little frock Pink Tops,C:\Users\color\Desktop\fashion-recommendation\data\images\10656.jpg
+10464,Men,Apparel,Topwear,Tshirts,Pink,Fall,2011.0,Casual,Flying Machine Men Mauvemist Pink Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10464.jpg
+10669,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011.0,Casual,Doodle Boy Road Trip Grey Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10669.jpg
+10803,Men,Apparel,Topwear,Shirts,White,Fall,2011.0,Casual,Wrangler Men Dodge Broad Accent Check White Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10803.jpg
+10694,Women,Apparel,Topwear,Tops,Pink,Fall,2011.0,Casual,Doodle Girl Be Born Pink Tops,C:\Users\color\Desktop\fashion-recommendation\data\images\10694.jpg
+10660,Women,Apparel,Bottomwear,Shorts,Blue,Fall,2011.0,Casual,Doodle Girl Hot shorts ice wash Blue Shorts,C:\Users\color\Desktop\fashion-recommendation\data\images\10660.jpg
+10452,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011.0,Casual,Flying Machine Men HS Grey Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10452.jpg
+10204,Women,Accessories,Bags,Handbags,Purple,Winter,2015.0,Casual,Murcia Women Hahk Purple Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10204.jpg
+10499,Women,Apparel,Topwear,Tshirts,Yellow,Fall,2011.0,Casual,Flying Machine Women Aspen Yellow Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10499.jpg
+10835,Men,Apparel,Topwear,Tshirts,Black,Fall,2011.0,Casual,Wrangler Men Black Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10835.jpg
+10009,Men,Apparel,Topwear,Tshirts,Red,Fall,2011.0,Sports,Nike Men Town Round Red Neck T-Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10009.jpg
+10203,Women,Accessories,Bags,Handbags,Red,Winter,2015.0,Casual,Murcia Women Hahk Red Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10203.jpg
+10031,Men,Apparel,Topwear,Tshirts,Navy Blue,Fall,2011.0,Sports,Nike Men As Arsenal Co Navy Blue T-Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10031.jpg
+10455,Men,Apparel,Topwear,Tshirts,Pink,Fall,2011.0,Casual,Flying Machine Men Mauvemist Purple Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10455.jpg
+10693,Women,Apparel,Topwear,Tops,Purple,Fall,2011.0,Casual,Doodle Girl Cute Purple Tops,C:\Users\color\Desktop\fashion-recommendation\data\images\10693.jpg
+10658,Women,Apparel,Topwear,Tops,White,Fall,2011.0,Casual,Doodle Girl Little frock White Tops,C:\Users\color\Desktop\fashion-recommendation\data\images\10658.jpg
+10832,Men,Apparel,Topwear,Tshirts,Green,Fall,2011.0,Casual,Wrangler Men American Music Folk Green T-Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10832.jpg
+10099,Men,Accessories,Watches,Watches,Grey,Winter,2016.0,Casual,Fastrack Men Analogue Grey Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10099.jpg
+10851,Men,Apparel,Topwear,Tshirts,Brown,Fall,2011.0,Casual,Wrangler Men Applique Polo Brown T-Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10851.jpg
+10409,Men,Apparel,Topwear,Tshirts,Green,Fall,2011.0,Casual,United Colors of Benetton Men Green Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10409.jpg
+10294,Men,Footwear,Shoes,Formal Shoes,Brown,Fall,2012.0,Formal,Clarks Men Feeling Good Leather Brown Formal Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10294.jpg
+10436,Men,Apparel,Topwear,Tshirts,Pink,Fall,2011.0,Casual,Flying Machine Men Pink Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10436.jpg
+10604,Unisex,Accessories,Headwear,Caps,Red,Fall,2011.0,Sports,Nike Unisex Tennis Red Caps,C:\Users\color\Desktop\fashion-recommendation\data\images\10604.jpg
+10260,Men,Apparel,Bottomwear,Trousers,Grey,Fall,2011.0,Formal,John Miller Men Line Grey Trousers,C:\Users\color\Desktop\fashion-recommendation\data\images\10260.jpg
+10052,Women,Apparel,Bottomwear,Shorts,Black,Fall,2011.0,Casual,Puma Women Trunk Black Shorts,C:\Users\color\Desktop\fashion-recommendation\data\images\10052.jpg
+10258,Men,Apparel,Bottomwear,Trousers,Navy Blue,Fall,2011.0,Formal,John Miller Men Line Navy Blue Trousers,C:\Users\color\Desktop\fashion-recommendation\data\images\10258.jpg
+10856,Men,Apparel,Topwear,Tshirts,Black,Fall,2011.0,Casual,Wrangler Men Black Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10856.jpg
+10869,Men,Apparel,Topwear,Tshirts,White,Fall,2011.0,Casual,Wrangler Men Fly The Wind White T-Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10869.jpg
+10267,Men,Footwear,Shoes,Casual Shoes,Black,Fall,2011.0,Casual,Clarks Men Rocco Fuse Black Leather Black Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10267.jpg
+10603,Unisex,Accessories,Headwear,Caps,Grey,Fall,2011.0,Sports,Nike Unisex Tennis Grey Caps,C:\Users\color\Desktop\fashion-recommendation\data\images\10603.jpg
+10431,Men,Apparel,Topwear,Shirts,Grey,Fall,2011.0,Casual,Flying Machine Men Ydc Grey Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10431.jpg
+10293,Men,Footwear,Sandal,Sandals,Brown,Spring,2012.0,Casual,Clarks Men Unstructured Leather Brown Sandals,C:\Users\color\Desktop\fashion-recommendation\data\images\10293.jpg
+10438,Men,Apparel,Bottomwear,Jeans,Blue,Fall,2011.0,Casual,Flying Machine Men Midrise Blue Jeans,C:\Users\color\Desktop\fashion-recommendation\data\images\10438.jpg
+10635,Men,Footwear,Shoes,Casual Shoes,Black,Fall,2011.0,Casual,Carlton London Men Semi oxfords Black Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10635.jpg
+10407,Men,Apparel,Topwear,Shirts,Grey,Fall,2011.0,Formal,United Colors of Benetton Men Solid Grey Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10407.jpg
+10063,Men,Apparel,Topwear,Tshirts,Yellow,Fall,2011.0,Casual,Puma Men spine tee Yellow Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10063.jpg
+10097,Men,Footwear,Shoes,Sports Shoes,White,Fall,2011.0,Sports,Reebok Men Reeflex Run White Sports Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10097.jpg
+10867,Men,Apparel,Topwear,Tshirts,Navy Blue,Fall,2011.0,Casual,Wrangler Men Navy Blue Tough Service Navy T-shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10867.jpg
+10269,Women,Footwear,Shoes,Flats,Red,Winter,2013.0,Casual,Clarks Women Silvi Spice Raspberry Leather Red Flats,C:\Users\color\Desktop\fashion-recommendation\data\images\10269.jpg
+10256,Men,Apparel,Topwear,Shirts,Green,Fall,2011.0,Casual,Locomotive Men Stripes Green Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10256.jpg
+10858,Men,Apparel,Topwear,Tshirts,White,Fall,2011.0,Casual,Wrangler Men Furious Rides White T-Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10858.jpg
+10064,Men,Apparel,Topwear,Tshirts,Yellow,Fall,2011.0,Casual,Puma Men puma shield tee Yellow Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10064.jpg
+10400,Women,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Puma Women Flux Shadow  266 Black Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10400.jpg
+10632,Men,Footwear,Shoes,Casual Shoes,Brown,Winter,2012.0,Casual,Carlton London Men Brown Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10632.jpg
+10692,Men,Apparel,Topwear,Tshirts,Red,Fall,2011.0,Casual,Doodle Boy Casual Red Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10692.jpg
+10030,Women,Apparel,Topwear,Tshirts,Black,Fall,2011.0,Sports,Nike Women As See The Win Black T-Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10030.jpg
+10202,Women,Accessories,Bags,Handbags,Green,Winter,2015.0,Casual,Murcia Women Asjke Green Green Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10202.jpg
+10454,Men,Apparel,Topwear,Tshirts,Yellow,Fall,2011.0,Casual,Flying Machine Men Gloden Haze Yellow Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10454.jpg
+10833,Men,Apparel,Topwear,Tshirts,Red,Fall,2011.0,Casual,Wrangler Men Rope Embro Polo Red T-Shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10833.jpg
+10453,Men,Apparel,Topwear,Tshirts,Yellow,Fall,2011.0,Casual,Flying Machine Men Gloden Haze Yellow Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10453.jpg
+10661,Women,Apparel,Bottomwear,Shorts,Blue,Fall,2011.0,Casual,Doodle Girl Hot  Ice Wash Blue Shorts,C:\Users\color\Desktop\fashion-recommendation\data\images\10661.jpg
+10205,Women,Accessories,Bags,Handbags,Brown,Winter,2015.0,Casual,Murcia Women Rubena Brown Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10205.jpg
+10037,Men,Footwear,Shoes,Sports Shoes,Silver,Fall,2011.0,Sports,Reebok Men Premier ultra 8 U-form Silver Sports Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10037.jpg
+10008,Men,Apparel,Topwear,Tshirts,Navy Blue,Fall,2011.0,Sports,Nike Men Town Navy Blue T-Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10008.jpg
+10834,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011.0,Casual,Wrangler Men Grey Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10834.jpg
+10498,Women,Apparel,Topwear,Tops,Navy Blue,Fall,2011.0,Casual,Flying Machine Women RN Blue Tops,C:\Users\color\Desktop\fashion-recommendation\data\images\10498.jpg
+10001,Women,Apparel,Bottomwear,Skirts,Blue,Summer,2011.0,Casual,Palm Tree Kids Girls Sp Jema Skt Blue Skirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10001.jpg
+10465,Men,Apparel,Topwear,Tshirts,Purple,Fall,2011.0,Casual,Flying Machine Men Paisley Purple Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10465.jpg
+10491,Women,Apparel,Topwear,Tshirts,White,Fall,2011.0,Casual,Flying Machine Women HS White Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10491.jpg
+10802,Men,Apparel,Topwear,Shirts,Blue,Fall,2011.0,Casual,Wrangler Men Dodge Broad Accent Check Blue Shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10802.jpg
+10496,Women,Apparel,Topwear,Tshirts,White,Fall,2011.0,Casual,Flying Machine Women RN White Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10496.jpg
+10650,Men,Apparel,Topwear,Shirts,Blue,Fall,2011.0,Casual,Doodle Boy Grand Prix Navy Blue Shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10650.jpg
+10462,Men,Apparel,Topwear,Tshirts,White,Fall,2011.0,Casual,Flying Machine Men White Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10462.jpg
+10006,Men,Apparel,Topwear,Tshirts,Black,Fall,2011.0,Sports,Nike Men AS T90 Black Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10006.jpg
+10039,Men,Footwear,Shoes,Sports Shoes,White,Fall,2011.0,Sports,Reebok Men Raceon White Sports Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10039.jpg
+10805,Men,Apparel,Topwear,Shirts,Black,Fall,2011.0,Casual,Wrangler Men Rider Solid Black Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10805.jpg
+10379,Women,Apparel,Topwear,Tshirts,Red,Fall,2011.0,Casual,United Colors of Benetton Women Solid Red T-shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10379.jpg
+10174,Men,Footwear,Shoes,Casual Shoes,Black,Fall,2011.0,Casual,United Colors Of Benetton Men Latnam Black Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10174.jpg
+10346,Women,Apparel,Topwear,Tshirts,Purple,Fall,2011.0,Casual,United Colors of Benetton Women Printed Purple Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10346.jpg
+10722,Men,Apparel,Topwear,Tshirts,White,Summer,2011.0,Casual,Nike Men Casual short sleeve tshirt White Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10722.jpg
+10510,Women,Apparel,Topwear,Tshirts,Grey,Fall,2011.0,Casual,Flying Machine Women RN HS Grey Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10510.jpg
+11052,Men,Apparel,Topwear,Shirts,White,Fall,2011.0,Casual,Scullers Men Check White Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\11052.jpg
+10180,Men,Footwear,Flip Flops,Flip Flops,Yellow,Fall,2011.0,Casual,United Colors of Benetton Men Speeder Yellow Flip Flops,C:\Users\color\Desktop\fashion-recommendation\data\images\10180.jpg
+11055,Men,Apparel,Topwear,Shirts,Blue,Fall,2011.0,Casual,Scullers Men Check Blue Shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\11055.jpg
+10187,Men,Apparel,Topwear,Shirts,Black,Fall,2011.0,Casual,Indigo Nation Men Hot Stepper Black Blue Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10187.jpg
+10517,Men,Footwear,Shoes,Sports Shoes,White,Fall,2011.0,Sports,New Balance MC900 Men Others Tennis White Sports Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10517.jpg
+10725,Women,Accessories,Bags,Handbags,Green,Winter,2015.0,Casual,Murcia Women Green Green Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10725.jpg
+10341,Men,Apparel,Topwear,Tshirts,Pink,Fall,2011.0,Casual,United Colors of Benetton Men Printed Pink Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10341.jpg
+10173,Men,Footwear,Sandal,Sandals,Brown,Fall,2011.0,Casual,United Colors of Benetton Men Tango Brown Sandals,C:\Users\color\Desktop\fashion-recommendation\data\images\10173.jpg
+10348,Women,Apparel,Topwear,Tshirts,Yellow,Fall,2011.0,Casual,United Colors of Benetton Women Printed Yellow T-shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10348.jpg
+10383,Men,Accessories,Watches,Watches,White,Winter,2016.0,Casual,Puma Men Star Dust 145 White Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10383.jpg
+11063,Men,Apparel,Topwear,Shirts,Purple,Fall,2011.0,Formal,John Miller Men Solid Purple Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\11063.jpg
+10377,Men,Apparel,Topwear,Tshirts,White,Fall,2011.0,Casual,United Colors of Benetton Men Printed White Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10377.jpg
+10145,Men,Footwear,Shoes,Formal Shoes,Brown,Fall,2011.0,Formal,Rockport Men Drsp Wingtip Brown Formal Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10145.jpg
+10713,Women,Apparel,Bottomwear,Capris,Blue,Winter,2011.0,Sports,Nike Women Blue Dri-Fit Capris,C:\Users\color\Desktop\fashion-recommendation\data\images\10713.jpg
+10189,Men,Apparel,Topwear,Shirts,Blue,Fall,2011.0,Casual,Indigo Nation Men Hot Stepper Blue Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10189.jpg
+10714,Women,Apparel,Bottomwear,Track Pants,Black,Summer,2011.0,Sports,Nike Women Trainng track pants Black Track Pants,C:\Users\color\Desktop\fashion-recommendation\data\images\10714.jpg
+10142,Men,Footwear,Shoes,Casual Shoes,Brown,Fall,2011.0,Casual,Rockport Men Captoe Brown Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10142.jpg
+11090,Men,Apparel,Topwear,Shirts,Blue,Fall,2011.0,Casual,Scullers Men Check Blue Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\11090.jpg
+10370,Women,Apparel,Topwear,Tshirts,White,Fall,2011.0,Casual,United Colors of Benetton Women White T-shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10370.jpg
+11064,Men,Apparel,Topwear,Shirts,Purple,Fall,2011.0,Formal,John Miller Men Solid Purple Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\11064.jpg
+10384,Women,Accessories,Watches,Watches,Purple,Winter,2016.0,Casual,Puma Women Fluctuation Stones 159 Blue Watch,C:\Users\color\Desktop\fashion-recommendation\data\images\10384.jpg
+10572,Men,Apparel,Topwear,Sweaters,Red,Fall,2011.0,Casual,Puma Men Knitted Red Sweaters,C:\Users\color\Desktop\fashion-recommendation\data\images\10572.jpg
+10740,Unisex,Footwear,Flip Flops,Flip Flops,Green,Winter,2012.0,Casual,Disney Unisex Kids Pluto Green Flip Flops,C:\Users\color\Desktop\fashion-recommendation\data\images\10740.jpg
+10324,Women,Apparel,Topwear,Tops,Black,Fall,2011.0,Casual,Puma Women Heather USP Black Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10324.jpg
+11030,Women,Apparel,Topwear,Shirts,Blue,Fall,2011.0,Casual,Jealous 21 Women Check Blue Shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\11030.jpg
+10129,Men,Footwear,Shoes,Formal Shoes,Brown,Fall,2011.0,Formal,Rockport Men Jefford Brown Formal Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10129.jpg
+10581,Men,Accessories,Watches,Watches,Steel,Winter,2016.0,Casual,Esprit Men Athletic Black Steel Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10581.jpg
+11037,Women,Apparel,Topwear,Tops,Pink,Fall,2011.0,Casual,Jealous 21 Women Solid Pink Tops,C:\Users\color\Desktop\fashion-recommendation\data\images\11037.jpg
+10111,Men,Footwear,Shoes,Sports Shoes,Silver,Fall,2011.0,Sports,Reebok Men Premier road supreme 2 Silver Sports Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10111.jpg
+10323,Women,Accessories,Bags,Handbags,Black,Winter,2015.0,Casual,Murcia Women Lambretta Green Black Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10323.jpg
+10747,Unisex,Footwear,Sandal,Sandals,Pink,Winter,2012.0,Casual,Disney Unisex Kids Daisy Pink Sandals,C:\Users\color\Desktop\fashion-recommendation\data\images\10747.jpg
+10575,Women,Apparel,Topwear,Tshirts,Pink,Fall,2011.0,Casual,Puma Women Ess Pink Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10575.jpg
+11008,Women,Apparel,Topwear,Tshirts,Cream,Fall,2011.0,Casual,Inkfruit Women Behind Cream Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\11008.jpg
+10778,Men,Apparel,Bottomwear,Shorts,Navy Blue,Summer,2011.0,Sports,Nike Men Training Navy Blue Shorts,C:\Users\color\Desktop\fashion-recommendation\data\images\10778.jpg
+11001,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Sports,Puma Men Top Fluctuation Red Black Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\11001.jpg
+10785,Unisex,Accessories,Headwear,Caps,Grey,Fall,2011.0,Sports,Nike Unisex Runng Grey Caps,C:\Users\color\Desktop\fashion-recommendation\data\images\10785.jpg
+10771,Girls,Footwear,Shoes,Casual Shoes,Red,Winter,2012.0,Casual,Disney Kids Red Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10771.jpg
+10127,Men,Footwear,Shoes,Casual Shoes,Brown,Fall,2011.0,Casual,Rockport Men Espresso Brown Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10127.jpg
+10315,Women,Accessories,Watches,Watches,Gold,Winter,2016.0,Casual,Esprit Women Rough Chic Gold Watch,C:\Users\color\Desktop\fashion-recommendation\data\images\10315.jpg
+10588,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Carrera Men Round Dial PU Strap Black Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10588.jpg
+10312,Women,Accessories,Watches,Watches,Silver,Winter,2016.0,Casual,Esprit Women Spark Black White Silver Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10312.jpg
+10776,Men,Apparel,Topwear,Tshirts,Red,Summer,2011.0,Sports,Nike Men Athletic Red Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10776.jpg
+11006,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Puma Men Race Luminous Black Chronograph Watch,C:\Users\color\Desktop\fashion-recommendation\data\images\11006.jpg
+10749,Unisex,Footwear,Flip Flops,Flip Flops,Red,Winter,2012.0,Casual,Disney Unisex Kids Mickey Star Red Flip Flops,C:\Users\color\Desktop\fashion-recommendation\data\images\10749.jpg
+11039,Women,Apparel,Topwear,Shirts,Red,Fall,2011.0,Casual,Jealous 21 Women Check Red Shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\11039.jpg
+10188,Men,Apparel,Topwear,Shirts,Blue,Fall,2011.0,Casual,Indigo Nation Men   Blue & White Stripe Shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10188.jpg
+10385,Women,Accessories,Watches,Watches,White,Winter,2016.0,Casual,Puma Women Vitality Stones 168 White Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10385.jpg
+10715,Women,Apparel,Topwear,Tops,Black,Fall,2011.0,Casual,Nike Women Training sports bra Black Tops,C:\Users\color\Desktop\fashion-recommendation\data\images\10715.jpg
+10371,Men,Apparel,Topwear,Sweatshirts,Black,Fall,2011.0,Casual,United Colors of Benetton Men Printed Black Sweatshirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10371.jpg
+10143,Men,Footwear,Shoes,Formal Shoes,Brown,Fall,2011.0,Formal,Rockport Men Moc Front Brown Formal Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10143.jpg
+11091,Men,Apparel,Topwear,Shirts,Red,Fall,2011.0,Casual,Scullers Men Red Check Shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\11091.jpg
+10144,Men,Footwear,Shoes,Casual Shoes,Brown,Fall,2011.0,Casual,Rockport Men Drsp Wingtip Brown Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10144.jpg
+10376,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011.0,Casual,United Colors of Benetton Men Printed Blue Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10376.jpg
+10712,Women,Apparel,Topwear,Tshirts,Blue,Fall,2011.0,Casual,Nike Women Casual short sleeve tshirt Blue Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10712.jpg
+11062,Men,Apparel,Topwear,Shirts,Maroon,Fall,2011.0,Casual,John Miller Men Solid Light Maroon Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\11062.jpg
+10382,Women,Apparel,Topwear,Tops,Grey,Fall,2011.0,Casual,United Colors of Benetton Women Grey Top,C:\Users\color\Desktop\fashion-recommendation\data\images\10382.jpg
+10724,Women,Accessories,Bags,Handbags,Black,Winter,2015.0,Casual,Murcia Women Black Black Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10724.jpg
+10172,Men,Footwear,Shoes,Casual Shoes,Grey,Fall,2011.0,Casual,United Colors of Benetton Men Iceland Grey Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10172.jpg
+10340,Women,Apparel,Topwear,Tshirts,Green,Fall,2011.0,Casual,United Colors of Benetton Women Green Polo T-shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10340.jpg
+11054,Men,Apparel,Topwear,Shirts,Blue,Fall,2011.0,Casual,Scullers Men Check Blue Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\11054.jpg
+10186,Men,Apparel,Topwear,Shirts,Black,Fall,2011.0,Casual,Indigo Nation Men Black & Blue Stripe Shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10186.jpg
+10378,Men,Apparel,Topwear,Tshirts,Black,Fall,2011.0,Casual,United Colors of Benetton Men Printed Black Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10378.jpg
+11053,Men,Apparel,Topwear,Shirts,Blue,Fall,2011.0,Casual,Scullers Men Check Blue Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\11053.jpg
+10181,Women,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Puma Women Pliancy Black Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10181.jpg
+10347,Men,Apparel,Topwear,Tshirts,Purple,Fall,2011.0,Casual,United Colors of Benetton Men Printed Purple Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10347.jpg
+10175,Men,Footwear,Shoes,Casual Shoes,Black,Fall,2011.0,Casual,United Colors of Benetton Men Wango Black Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10175.jpg
+10511,Women,Apparel,Topwear,Tops,Black,Fall,2011.0,Casual,Flying Machine Women RN Black Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10511.jpg
+10723,Men,Apparel,Topwear,Tshirts,White,Summer,2012.0,Sports,Nike Men Trainng Men's tshirt White Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10723.jpg
+10783,Men,Footwear,Shoes,Sports Shoes,White,Fall,2011.0,Sports,New Balance M364 Men Others Xtraining White Sports Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10783.jpg
+11007,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Puma Men Turbo Black Chronograph Watch,C:\Users\color\Desktop\fashion-recommendation\data\images\11007.jpg
+10313,Women,Accessories,Watches,Watches,Steel,Winter,2016.0,Casual,Esprit Women Cool Chic White Steel Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10313.jpg
+10777,Women,Apparel,Topwear,Jackets,Purple,Summer,2011.0,Sports,Nike Women Hooded Purple Jacket,C:\Users\color\Desktop\fashion-recommendation\data\images\10777.jpg
+11038,Women,Apparel,Topwear,Tops,Brown,Fall,2011.0,Casual,Jealous 21 Women Check Brown Tops,C:\Users\color\Desktop\fashion-recommendation\data\images\11038.jpg
+10748,Unisex,Footwear,Flip Flops,Flip Flops,Navy Blue,Winter,2012.0,Casual,Disney Unisex Kids Basic Navy Blue Flip Flops,C:\Users\color\Desktop\fashion-recommendation\data\images\10748.jpg
+10770,Girls,Footwear,Shoes,Casual Shoes,Red,Winter,2012.0,Casual,Disney Kids Red Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10770.jpg
+10314,Women,Accessories,Watches,Watches,Steel,Winter,2016.0,Casual,Esprit Women E-Ffect Black With White Dial Steel Watch,C:\Users\color\Desktop\fashion-recommendation\data\images\10314.jpg
+10126,Men,Footwear,Shoes,Sports Shoes,White,Fall,2011.0,Sports,Reebok Men Runtone Action White Sports Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10126.jpg
+11000,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Puma Men Slick 3HD Yellow Black Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\11000.jpg
+10784,Unisex,Accessories,Headwear,Caps,Black,Fall,2011.0,Sports,Nike Unisex Runng Black Caps,C:\Users\color\Desktop\fashion-recommendation\data\images\10784.jpg
+10322,Women,Accessories,Bags,Handbags,Black,Winter,2015.0,Casual,Murcia Women Lambretta Black Green Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10322.jpg
+10110,Women,Footwear,Shoes,Sports Shoes,White,Fall,2011.0,Sports,Reebok Women Instant White Sports Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10110.jpg
+10574,Men,Apparel,Topwear,Tshirts,Navy Blue,Fall,2011.0,Casual,Puma Men Bts Navy Blue Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10574.jpg
+10746,Unisex,Footwear,Flip Flops,Flip Flops,Purple,Winter,2012.0,Casual,Disney Unisex Kids Princess Heart Purple Flip Flops,C:\Users\color\Desktop\fashion-recommendation\data\images\10746.jpg
+10580,Men,Accessories,Watches,Watches,Copper,Winter,2016.0,Casual,Esprit Men Athletic Rosegold Copper Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10580.jpg
+11036,Women,Apparel,Topwear,Tops,Black,Fall,2011.0,Casual,Jealous 21 Women Solid Black Tops,C:\Users\color\Desktop\fashion-recommendation\data\images\11036.jpg
+11009,Men,Apparel,Topwear,Tshirts,White,Fall,2011.0,Casual,Inkfruit Men Let Me Skate White Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\11009.jpg
+11031,Women,Apparel,Topwear,Tops,Blue,Fall,2011.0,Casual,Jealous 21 Women Check Blue Tops,C:\Users\color\Desktop\fashion-recommendation\data\images\11031.jpg
+10587,Men,Accessories,Watches,Watches,White,Winter,2016.0,Casual,Carrera Men Careera dial steel strap patch White Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10587.jpg
+10741,Unisex,Footwear,Flip Flops,Flip Flops,Yellow,Winter,2012.0,Casual,Disney Unisex Kids Mickey Mouse Yellow Flip Flops,C:\Users\color\Desktop\fashion-recommendation\data\images\10741.jpg
+10573,Men,Apparel,Topwear,Tshirts,Navy Blue,Fall,2011.0,Casual,Puma Men Heritage Navy Blue Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10573.jpg
+10117,Men,Footwear,Shoes,Sports Shoes,Silver,Fall,2011.0,Sports,Reebok Men Premier Zigfly Silver Sports Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10117.jpg
+10325,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Puma Men Atlantis Black Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10325.jpg
+10128,Men,Footwear,Shoes,Formal Shoes,Black,Fall,2011.0,Formal,Rockport Men Drsp Wingtip Black Formal Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10128.jpg
+10338,Men,Apparel,Topwear,Tshirts,White,Fall,2011.0,Casual,United Colors of Benetton Men Solid Polo White Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10338.jpg
+10797,Men,Apparel,Topwear,Shirts,White,Fall,2011.0,Casual,Wrangler Men Urban Big Check White Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10797.jpg
+11013,Women,Apparel,Topwear,Tops,Multi,Fall,2011.0,Casual,Wrangler Women Frill Check Multi Tops,C:\Users\color\Desktop\fashion-recommendation\data\images\11013.jpg
+10307,Women,Footwear,Shoes,Flats,Silver,Fall,2011.0,Casual,Clarks Women Arizona Metallic Leather Silver Ballerinas,C:\Users\color\Desktop\fashion-recommendation\data\images\10307.jpg
+10135,Women,Accessories,Watches,Watches,Silver,Winter,2016.0,Casual,Esprit Women Lissomy Glam White Silver Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10135.jpg
+10763,Men,Apparel,Topwear,Tshirts,Blue,Summer,2012.0,Sports,Nike Men Trainng Blue T-shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10763.jpg
+10569,Women,Apparel,Topwear,Tops,White,Fall,2011.0,Casual,Puma Women Ess White Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10569.jpg
+10764,Men,Apparel,Topwear,Tshirts,Black,Fall,2011.0,Casual,Puma Men Bts Black Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10764.jpg
+10300,Men,Footwear,Sandal,Sandals,Brown,Summer,2016.0,Casual,Clarks Men Brown Wild Vibe Leather Closed Sandals,C:\Users\color\Desktop\fashion-recommendation\data\images\10300.jpg
+11014,Women,Apparel,Topwear,Shirts,Blue,Fall,2011.0,Casual,Wrangler Women Polka Blue Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\11014.jpg
+10790,Men,Apparel,Topwear,Shirts,Blue,Fall,2011.0,Casual,Wrangler Men Manitoba Piping Blue Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10790.jpg
+10309,Women,Footwear,Shoes,Flats,White,Winter,2013.0,Casual,Clarks Women White Leather Flats,C:\Users\color\Desktop\fashion-recommendation\data\images\10309.jpg
+10799,Men,Apparel,Topwear,Shirts,Navy Blue,Fall,2011.0,Casual,Wrangler Men Wander Wheels Navy Blue Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10799.jpg
+10104,Men,Footwear,Shoes,Sports Shoes,Black,Fall,2011.0,Sports,Reebok Men Buckets VI Black Sports Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10104.jpg
+10336,Women,Apparel,Topwear,Tops,Black,Fall,2011.0,Casual,United Colors of Benetton Women Stripes Black Tops,C:\Users\color\Desktop\fashion-recommendation\data\images\10336.jpg
+10752,Men,Apparel,Topwear,Tshirts,White,Fall,2011.0,Sports,Nike Men Hell With White Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10752.jpg
+10594,Women,Accessories,Watches,Watches,Pink,Winter,2016.0,Casual,Esprit Women Houston Funky Pink Pink Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10594.jpg
+11022,Women,Apparel,Topwear,Tshirts,Red,Fall,2011.0,Casual,Wrangler Women Its A Good Day Red T-Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\11022.jpg
+11025,Women,Apparel,Topwear,Tshirts,Pink,Fall,2011.0,Casual,Wrangler Women Studd Polo Pink T-shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\11025.jpg
+10593,Women,Accessories,Watches,Watches,Purple,Winter,2016.0,Casual,Esprit Women Houston Purple Ice Purple Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10593.jpg
+10567,Women,Apparel,Topwear,Tshirts,Pink,Fall,2011.0,Casual,Puma Women Striped Polo Pink Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10567.jpg
+10755,Women,Footwear,Shoes,Casual Shoes,Pink,Winter,2012.0,Casual,Disney Kids Princess Heart Pink Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10755.jpg
+10331,Men,Accessories,Belts,Belts,Black,Fall,2011.0,Casual,Indigo Nation Men basalt Black Belts,C:\Users\color\Desktop\fashion-recommendation\data\images\10331.jpg
+11071,Men,Apparel,Topwear,Shirts,Black,Fall,2011.0,Casual,Scullers Men Check Black Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\11071.jpg
+10391,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Puma Men Drift 244 Black Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10391.jpg
+10701,Women,Accessories,Watches,Watches,Steel,Winter,2016.0,Casual,Esprit Women Silver Houston Steel Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10701.jpg
+10533,Men,Footwear,Shoes,Sports Shoes,Black,Fall,2011.0,Sports,New Balance MW631 Men Others Walking Black Sports Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10533.jpg
+10157,Unisex,Footwear,Flip Flops,Flip Flops,Blue,Fall,2011.0,Casual,Puma Unisex Puma Flips Blue Flip Flops,C:\Users\color\Desktop\fashion-recommendation\data\images\10157.jpg
+11085,Men,Apparel,Topwear,Shirts,Green,Fall,2011.0,Casual,Scullers Men Check Green Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\11085.jpg
+10365,Women,Apparel,Dress,Dresses,Black,Fall,2011.0,Casual,United Colors of Benetton Women Short Black Dresses,C:\Users\color\Desktop\fashion-recommendation\data\images\10365.jpg
+10168,Men,Footwear,Shoes,Casual Shoes,Black,Fall,2011.0,Casual,United Colors of Benetton Men Punk Black Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10168.jpg
+10362,Women,Apparel,Topwear,Tshirts,Purple,Fall,2011.0,Casual,United Colors of Benetton Women Purple Polo T-shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10362.jpg
+10150,Men,Footwear,Shoes,Formal Shoes,Black,Fall,2011.0,Formal,Rockport Men Drsp Plaintoe Black Formal Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10150.jpg
+11082,Men,Apparel,Topwear,Shirts,Red,Fall,2011.0,Casual,Scullers Men Check Red Shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\11082.jpg
+10706,Women,Accessories,Watches,Watches,Gold,Winter,2016.0,Casual,Esprit Women Lissomy Two Tone Gold Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10706.jpg
+10396,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Sports,Puma Men Atlantis All Black Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10396.jpg
+11076,Men,Apparel,Topwear,Sweaters,Black,Fall,2011.0,Casual,Scullers Men Stripes Black Sweaters,C:\Users\color\Desktop\fashion-recommendation\data\images\11076.jpg
+10998,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Sports,Puma Men Blockbuster Red Black Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10998.jpg
+10739,Unisex,Footwear,Flip Flops,Flip Flops,Black,Winter,2012.0,Casual,Disney Unisex Kids Basic Black Flip Flops,C:\Users\color\Desktop\fashion-recommendation\data\images\10739.jpg
+11049,Men,Apparel,Topwear,Shirts,Red,Fall,2011.0,Casual,Scullers Men Check Red Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\11049.jpg
+10502,Women,Apparel,Topwear,Tshirts,Blue,Fall,2011.0,Casual,Flying Machine Women Ocean Blue Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10502.jpg
+10730,Women,Accessories,Bags,Handbags,Grey,Winter,2015.0,Casual,Murcia Women Lorra Grey Grey Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10730.jpg
+10354,Women,Apparel,Topwear,Tops,Blue,Fall,2011.0,Casual,United Colors of Benetton Women Checks Blue Tops,C:\Users\color\Desktop\fashion-recommendation\data\images\10354.jpg
+10166,Men,Footwear,Flip Flops,Flip Flops,Red,Fall,2011.0,Casual,United Colors of Benetton Men Carribean Red Flip Flops,C:\Users\color\Desktop\fashion-recommendation\data\images\10166.jpg
+11040,Men,Apparel,Topwear,Shirts,Purple,Fall,2011.0,Casual,Scullers Men Check Purple Shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\11040.jpg
+10192,Men,Accessories,Watches,Watches,Steel,Winter,2016.0,Casual,Esprit Men Avalance Black Steel Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10192.jpg
+10159,Men,Footwear,Shoes,Casual Shoes,White,Fall,2011.0,Casual,Puma Men 917 Mid Spill White Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10159.jpg
+10991,Men,Apparel,Topwear,Tshirts,Brown,Fall,2011.0,Casual,Inkfruit Men Havy Metal Brown Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10991.jpg
+11047,Men,Apparel,Topwear,Shirts,Red,Fall,2011.0,Casual,Scullers Men Check Red Shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\11047.jpg
+10195,Men,Accessories,Watches,Watches,Blue,Winter,2016.0,Casual,Carrera Men Steel strap dial Blue Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10195.jpg
+10161,Men,Footwear,Shoes,Sports Shoes,White,Fall,2011.0,Sports,Puma Men Cabana Racer White Sports Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10161.jpg
+10737,Women,Accessories,Bags,Handbags,Black,Winter,2015.0,Casual,Murcia Women Hmzaab Black Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10737.jpg
+10505,Women,Apparel,Topwear,Tshirts,Yellow,Fall,2011.0,Casual,Flying Machine Women RN HS Yellow Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10505.jpg
+10398,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Sports,Puma Men Cardiac II Black Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10398.jpg
+11078,Men,Apparel,Topwear,Sweaters,Grey,Fall,2011.0,Casual,Scullers Men Stripes Grey Sweaters,C:\Users\color\Desktop\fashion-recommendation\data\images\11078.jpg
+10996,Men,Apparel,Topwear,Tshirts,Brown,Fall,2011.0,Casual,Inkfruit Men Too Drunk Brown Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10996.jpg
+10708,Men,Apparel,Topwear,Tshirts,Black,Fall,2011.0,Casual,Nike Men Logo T-shirt Black Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10708.jpg
+10754,Unisex,Footwear,Flip Flops,Flip Flops,Blue,Winter,2012.0,Casual,Disney Unisex Kids Mickey Star Blue Flip Flops,C:\Users\color\Desktop\fashion-recommendation\data\images\10754.jpg
+10566,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011.0,Casual,Puma Men Rugby Grey Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10566.jpg
+10102,Men,Footwear,Shoes,Sports Shoes,Black,Fall,2011.0,Sports,Reebok Men Premier Verona Supreme 2 Black Sports Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10102.jpg
+10330,Men,Accessories,Belts,Belts,Black,Fall,2011.0,Casual,Indigo Nation Men Alnoite Black Belts,C:\Users\color\Desktop\fashion-recommendation\data\images\10330.jpg
+11024,Women,Apparel,Topwear,Tshirts,Purple,Fall,2011.0,Casual,Wrangler Women Purple T-shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\11024.jpg
+10308,Men,Footwear,Shoes,Casual Shoes,Brown,Fall,2012.0,Casual,Clarks Men Brown Leather Boat Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10308.jpg
+10595,Women,Free Items,Free Gifts,Free Gifts,Grey,Winter,2016.0,Casual,Esprit Women Cascade Grey Dial Watch,C:\Users\color\Desktop\fashion-recommendation\data\images\10595.jpg
+11023,Women,Apparel,Topwear,Tshirts,Black,Fall,2011.0,Casual,Wrangler Women Black T-shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\11023.jpg
+10105,Women,Accessories,Watches,Watches,Steel,Winter,2016.0,Casual,Fastrack Women Analogue Leather Steel Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10105.jpg
+10753,Unisex,Footwear,Flip Flops,Flip Flops,Navy Blue,Winter,2012.0,Casual,Disney Unisex Kids Basic Navy Blue Flip Flops,C:\Users\color\Desktop\fashion-recommendation\data\images\10753.jpg
+10568,Men,Apparel,Topwear,Sweaters,Navy Blue,Fall,2011.0,Casual,Puma Men Knitted Navy Blue Sweater,C:\Users\color\Desktop\fashion-recommendation\data\images\10568.jpg
+11015,Women,Apparel,Topwear,Tunics,Purple,Fall,2011.0,Casual,Wrangler Women Kangroo Pocket Purple Tunics,C:\Users\color\Desktop\fashion-recommendation\data\images\11015.jpg
+10791,Men,Apparel,Topwear,Shirts,Black,Fall,2011.0,Casual,Wrangler Men Manitoba Piping Black Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10791.jpg
+10765,Unisex,Footwear,Flip Flops,Flip Flops,Navy Blue,Winter,2012.0,Casual,Disney Unisex Kids Basic Navy Blue Flip Flops,C:\Users\color\Desktop\fashion-recommendation\data\images\10765.jpg
+10301,Men,Footwear,Shoes,Casual Shoes,Brown,Fall,2011.0,Casual,Clarks Brown Leather Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10301.jpg
+10133,Women,Accessories,Watches,Watches,Silver,Winter,2016.0,Casual,Esprit Women Rough Chic Black Silver Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10133.jpg
+10339,Women,Apparel,Topwear,Tshirts,Black,Fall,2011.0,Casual,United Colors of Benetton Women Black Polo T-shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10339.jpg
+10134,Women,Accessories,Watches,Watches,Silver,Winter,2016.0,Casual,Esprit Women Lissomy Glam Black Silver Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10134.jpg
+10306,Men,Footwear,Shoes,Casual Shoes,Grey,Fall,2011.0,Casual,Clarks Men Rocco Fuse Leather Grey Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10306.jpg
+10762,Unisex,Footwear,Flip Flops,Flip Flops,Yellow,Winter,2012.0,Casual,Disney Unisex Kids Basic Yellow Flip Flops,C:\Users\color\Desktop\fashion-recommendation\data\images\10762.jpg
+10796,Men,Apparel,Topwear,Shirts,Red,Fall,2011.0,Casual,Wrangler Men Warnick Square Block Red Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10796.jpg
+11012,Women,Apparel,Topwear,Tops,Multi,Fall,2011.0,Casual,Wrangler Women Frill Check Multi Tops,C:\Users\color\Desktop\fashion-recommendation\data\images\11012.jpg
+10352,Men,Apparel,Topwear,Shirts,White,Fall,2011.0,Casual,United Colors of Benetton Men Solid White Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10352.jpg
+10160,Men,Footwear,Shoes,Casual Shoes,White,Fall,2011.0,Casual,Puma Men 917 Lo Paint Splatter White Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10160.jpg
+10504,Women,Apparel,Topwear,Tshirts,White,Fall,2011.0,Casual,Flying Machine Women RN HS White Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10504.jpg
+10736,Women,Accessories,Bags,Handbags,Red,Winter,2015.0,Casual,Murcia Women Mcc Red Red Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10736.jpg
+11046,Men,Apparel,Topwear,Shirts,White,Fall,2011.0,Casual,Scullers Men Check White Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\11046.jpg
+10194,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Carrera Men Sqaure dial leather strap Black Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10194.jpg
+10709,Women,Apparel,Topwear,Tshirts,Purple,Fall,2011.0,Sports,Nike Women Trainng short sleeve tshirt Purple Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10709.jpg
+10997,Men,Accessories,Watches,Watches,Silver,Winter,2016.0,Casual,Puma Men Track White Silver Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10997.jpg
+11079,Men,Apparel,Topwear,Shirts,Green,Fall,2011.0,Casual,Scullers Men Check Green Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\11079.jpg
+10399,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Puma Men Cardiac 209 Black Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10399.jpg
+11041,Men,Apparel,Topwear,Shirts,Purple,Fall,2011.0,Casual,Scullers Men Purple Check Shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\11041.jpg
+10193,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Carrera Men Dial Green Numbers Black Watch,C:\Users\color\Desktop\fashion-recommendation\data\images\10193.jpg
+10731,Women,Accessories,Bags,Handbags,Brown,Winter,2015.0,Casual,Murcia Women Lorra Coffee Brown Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10731.jpg
+10503,Women,Apparel,Topwear,Tshirts,White,Fall,2011.0,Casual,Flying Machine Women RN HS White Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10503.jpg
+10167,Men,Footwear,Shoes,Casual Shoes,Black,Fall,2011.0,Casual,United Colors of Benetton Men Nighthawk Black Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10167.jpg
+10355,Men,Apparel,Topwear,Shirts,Blue,Fall,2011.0,Formal,United Colors of Benetton Men Stripes Blue Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10355.jpg
+10990,Women,Apparel,Topwear,Tshirts,Pink,Fall,2011.0,Casual,Inkfruit Women Irritating Pink Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10990.jpg
+10158,Men,Footwear,Shoes,Casual Shoes,Black,Fall,2011.0,Casual,Puma Men 917 Lo Feuer Black Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10158.jpg
+10999,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Puma Men Rod Yellow Black Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10999.jpg
+11077,Men,Apparel,Topwear,Sweaters,Purple,Fall,2011.0,Casual,Scullers Men Stripes Purple Sweaters,C:\Users\color\Desktop\fashion-recommendation\data\images\11077.jpg
+10397,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Puma Men Slick Gents 3 Black Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10397.jpg
+10151,Men,Footwear,Shoes,Formal Shoes,Black,Fall,2011.0,Formal,Rockport Men Drsp Slip On Black Formal Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10151.jpg
+11083,Men,Apparel,Topwear,Shirts,Blue,Fall,2011.0,Casual,Scullers Men Check Blue Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\11083.jpg
+10363,Women,Apparel,Topwear,Tops,Grey,Fall,2011.0,Casual,United Colors of Benetton Women Solid Grey Tops,C:\Users\color\Desktop\fashion-recommendation\data\images\10363.jpg
+10707,Women,Accessories,Watches,Watches,Gold,Winter,2016.0,Casual,Esprit Women Open Link Gold Gold Watch,C:\Users\color\Desktop\fashion-recommendation\data\images\10707.jpg
+11048,Men,Apparel,Topwear,Shirts,Red,Fall,2011.0,Casual,Scullers Men Check Red Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\11048.jpg
+10738,Women,Accessories,Watches,Watches,Pink,Winter,2016.0,Casual,Puma Women Slick Ladies 3HD Pink Pink Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10738.jpg
+10700,Women,Accessories,Watches,Watches,Steel,Winter,2016.0,Casual,Esprit Women Pure Black Glam Rock Houston Steel Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10700.jpg
+10364,Men,Apparel,Topwear,Tshirts,Magenta,Fall,2011.0,Casual,United Colors of Benetton Men Solid Magenta T-shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10364.jpg
+10156,Men,Footwear,Shoes,Casual Shoes,Brown,Fall,2011.0,Casual,Rockport Men Sc Slip On Brown Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10156.jpg
+11084,Men,Apparel,Topwear,Shirts,Blue,Fall,2011.0,Casual,Scullers Men Check Blue Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\11084.jpg
+10390,Women,Accessories,Watches,Watches,White,Winter,2016.0,Casual,Puma Women Finesse 233 White Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10390.jpg
+11070,Men,Apparel,Topwear,Shirts,Black,Fall,2011.0,Casual,Scullers Men Check Black Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\11070.jpg
+10169,Men,Footwear,Shoes,Casual Shoes,Brown,Fall,2011.0,Casual,United Colors of Benetton Men HIghlander Brown Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10169.jpg
+10827,Men,Apparel,Topwear,Tshirts,White,Fall,2011.0,Casual,Wrangler Men White Celebrate Indigo T-shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10827.jpg
+10229,Women,Accessories,Bags,Handbags,Black,Winter,2015.0,Casual,Murcia Women Hths Black Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10229.jpg
+10216,Women,Accessories,Bags,Handbags,Green,Winter,2015.0,Casual,Murcia Women Hths Green Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10216.jpg
+10024,Women,Apparel,Topwear,Tshirts,Black,Fall,2011.0,Sports,Nike Women As Make Yours Black T-Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10024.jpg
+10818,Men,Apparel,Topwear,Shirts,Red,Fall,2011.0,Casual,Wrangler Men Urban Raiser Red Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10818.jpg
+10440,Men,Apparel,Topwear,Shirts,Navy Blue,Fall,2011.0,Casual,Flying Machine Men Ydc Green Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10440.jpg
+10672,Girls,Apparel,Topwear,Tops,Purple,Fall,2011.0,Casual,Doodle Girls Little song board Purple Tops,C:\Users\color\Desktop\fashion-recommendation\data\images\10672.jpg
+10820,Men,Apparel,Topwear,Shirts,Navy Blue,Fall,2011.0,Casual,Wrangler Men City Work Navy Blue Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10820.jpg
+10478,Men,Apparel,Topwear,Shirts,Maroon,Fall,2011.0,Casual,Flying Machine Men Ydc Maroon Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10478.jpg
+10675,Women,Apparel,Topwear,Tops,Black,Fall,2011.0,Casual,Doodle Girl Princess Black Tops,C:\Users\color\Desktop\fashion-recommendation\data\images\10675.jpg
+10447,Men,Apparel,Topwear,Tshirts,Yellow,Fall,2011.0,Casual,Flying Machine Men Yellow Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10447.jpg
+10023,Women,Apparel,Bottomwear,Track Pants,Grey,Fall,2011.0,Sports,Nike Women Regular Grey Track Pants,C:\Users\color\Desktop\fashion-recommendation\data\images\10023.jpg
+10211,Women,Accessories,Bags,Handbags,Grey,Winter,2015.0,Casual,Murcia Women Lambretta Grey Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10211.jpg
+10681,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011.0,Casual,United Colors of Benetton Men Printed Grey Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10681.jpg
+10816,Men,Apparel,Topwear,Shirts,Red,Fall,2011.0,Casual,Wrangler Men Country Eagle Red Shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10816.jpg
+10015,Men,Apparel,Topwear,Tshirts,White,Fall,2011.0,Casual,Locomotive Men American Glory White Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10015.jpg
+10829,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011.0,Casual,Wrangler Men Blue Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10829.jpg
+10227,Women,Accessories,Bags,Handbags,Purple,Winter,2015.0,Casual,Murcia Women SLB Bag Purple Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10227.jpg
+10643,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011.0,Casual,Doodle Boy D Print Blue Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10643.jpg
+10471,Men,Apparel,Topwear,Tshirts,Red,Fall,2011.0,Casual,Flying Machine Men Chrysanthemum Red Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10471.jpg
+10485,Men,Apparel,Bottomwear,Jeans,Blue,Fall,2011.0,Casual,Flying Machine Men Midrise Blue Jeans,C:\Users\color\Desktop\fashion-recommendation\data\images\10485.jpg
+10811,Men,Apparel,Topwear,Shirts,Red,Fall,2011.0,Casual,Wrangler Men Rodeo 47 Tab Pkt Red Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10811.jpg
+10449,Men,Apparel,Topwear,Tshirts,Black,Fall,2011.0,Casual,Flying Machine Men Black Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10449.jpg
+10482,Men,Apparel,Topwear,Shirts,Blue,Fall,2011.0,Casual,Flying Machine Men Ydc Blue Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10482.jpg
+10476,Men,Apparel,Topwear,Shirts,Pink,Fall,2011.0,Casual,Flying Machine Men Ydc Pink Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10476.jpg
+10644,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011.0,Casual,Doodle Boy D Print Blue Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10644.jpg
+10220,Women,Accessories,Bags,Handbags,Pink,Winter,2015.0,Casual,Murcia Women Mary Pink Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10220.jpg
+10012,Men,Apparel,Bottomwear,Track Pants,Navy Blue,Fall,2011.0,Sports,Nike Men's Breakli Navy Blue Track Pants,C:\Users\color\Desktop\fashion-recommendation\data\images\10012.jpg
+10280,Women,Footwear,Shoes,Flats,Black,Fall,2012.0,Casual,Clarks Women Prize Club Leather Black Wedges,C:\Users\color\Desktop\fashion-recommendation\data\images\10280.jpg
+10610,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011.0,Casual,Flying Machine Men Green Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10610.jpg
+10046,Men,Apparel,Topwear,Tshirts,Green,Fall,2011.0,Casual,Puma Men Heroes Graphic Green Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10046.jpg
+10274,Men,Footwear,Shoes,Formal Shoes,Black,Fall,2011.0,Formal,Clarks Men Dino Limit Leather Black Formal Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10274.jpg
+10845,Men,Apparel,Topwear,Tshirts,Red,Fall,2011.0,Casual,Wrangler Men Falcon Print Red T-Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10845.jpg
+10079,Unisex,Footwear,Sandal,Sandals,Black,Fall,2011.0,Casual,Reebok Unisex Twist Black Sandals,C:\Users\color\Desktop\fashion-recommendation\data\images\10079.jpg
+10273,Men,Footwear,Sandal,Sandals,Black,Summer,2016.0,Casual,Clarks Men Black Leather Closed Sandals,C:\Users\color\Desktop\fashion-recommendation\data\images\10273.jpg
+10041,Women,Apparel,Topwear,Tshirts,Brown,Fall,2011.0,Sports,Nike Women Brown Polo T-shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10041.jpg
+10425,Men,Apparel,Topwear,Shirts,Green,Fall,2011.0,Casual,United Colors of Benetton Men Checks Green Shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10425.jpg
+10287,Women,Footwear,Shoes,Flats,Silver,Winter,2013.0,Casual,Clarks Women Leather Silver Flats,C:\Users\color\Desktop\fashion-recommendation\data\images\10287.jpg
+10628,Men,Footwear,Shoes,Casual Shoes,Navy Blue,Winter,2012.0,Casual,Carlton London Men CL Casual Navy Blue Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10628.jpg
+10842,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011.0,Casual,Wrangler Men Celebrate Polo Grey T-Shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10842.jpg
+10413,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011.0,Casual,United Colors of Benetton Men Printed Grey Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10413.jpg
+10621,Women,Footwear,Shoes,Flats,Silver,Spring,2013.0,Casual,Carlton London Women Silver Solid Open Toe,C:\Users\color\Desktop\fashion-recommendation\data\images\10621.jpg
+10245,Women,Accessories,Bags,Handbags,Green,Winter,2015.0,Casual,Murcia Women TMK Green Green Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10245.jpg
+10083,Men,Footwear,Flip Flops,Flip Flops,Green,Fall,2011.0,Casual,Reebok Men Hanavi II Green Flip Flops,C:\Users\color\Desktop\fashion-recommendation\data\images\10083.jpg
+10874,Men,Apparel,Topwear,Tshirts,Navy Blue,Fall,2011.0,Casual,Wrangler Men Wrangler Station Navy Blue T-Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10874.jpg
+10048,Men,Apparel,Topwear,Tshirts,Black,Fall,2011.0,Casual,Puma Men Social Sport Black Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10048.jpg
+10880,Men,Apparel,Topwear,Tshirts,Navy Blue,Fall,2011.0,Casual,Wrangler Men All The Way Photo Print Navy Blue T-Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10880.jpg
+10070,Women,Apparel,Topwear,Tshirts,Pink,Fall,2011.0,Casual,Puma Women Large logo tee Pink Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10070.jpg
+10242,Women,Accessories,Bags,Handbags,Grey,Winter,2015.0,Casual,Murcia Women Mary Grey Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10242.jpg
+10626,Men,Footwear,Shoes,Casual Shoes,Green,Winter,2012.0,Casual,Carlton London Men CL Casual Green Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10626.jpg
+10414,Women,Apparel,Topwear,Tshirts,Purple,Fall,2011.0,Casual,United Colors of Benetton Women Solid Purple T-shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10414.jpg
+10289,Women,Footwear,Shoes,Heels,Black,Fall,2012.0,Casual,Clarks Women Soma Silk Leather Black Heels,C:\Users\color\Desktop\fashion-recommendation\data\images\10289.jpg
+10619,Women,Footwear,Shoes,Flats,Silver,Spring,2013.0,Casual,Carlton London Women Silver Flats,C:\Users\color\Desktop\fashion-recommendation\data\images\10619.jpg
+10873,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011.0,Casual,Wrangler Men Wrangler Station Grey T-Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10873.jpg
+10810,Men,Apparel,Topwear,Shirts,Blue,Fall,2011.0,Casual,Wrangler Men Mark Rodeo Riveted Blue Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10810.jpg
+10448,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011.0,Casual,Flying Machine Men Grey Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10448.jpg
+10645,Men,Apparel,Topwear,Tshirts,Red,Fall,2011.0,Casual,Doodle Boy Athlethic Red Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10645.jpg
+10477,Men,Apparel,Topwear,Shirts,Blue,Fall,2011.0,Casual,Flying Machine Men Ydc Blue Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10477.jpg
+10013,Men,Apparel,Topwear,Tshirts,Yellow,Fall,2011.0,Sports,Nike Men As Ss Cruiser Yellow T-Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10013.jpg
+10221,Women,Accessories,Bags,Handbags,Green,Winter,2015.0,Casual,Murcia Women Emma Green Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10221.jpg
+10483,Men,Apparel,Topwear,Tshirts,Pink,Fall,2011.0,Casual,Flying Machine Men Damson Maroon Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10483.jpg
+10689,Men,Apparel,Topwear,Tshirts,White,Fall,2011.0,Casual,Doodle Boy Casual White Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10689.jpg
+10817,Men,Apparel,Topwear,Shirts,Green,Fall,2011.0,Casual,Wrangler Men Urban Raiser Green Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10817.jpg
+10219,Men,Accessories,Watches,Watches,Yellow,Winter,2016.0,Casual,Carrera Men Strap dial Yellow Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10219.jpg
+10484,Men,Apparel,Topwear,Shirts,Purple,Fall,2011.0,Casual,Flying Machine Men FS Purple Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10484.jpg
+10226,Women,Accessories,Bags,Handbags,Black,Winter,2015.0,Casual,Murcia Women Rubena Black Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10226.jpg
+10828,Men,Apparel,Topwear,Tshirts,Navy Blue,Fall,2011.0,Casual,Wrangler Men Navy Blue Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10828.jpg
+10014,Unisex,Accessories,Headwear,Caps,Blue,Fall,2011.0,Sports,Nike Unisex Feather lite Blue Caps,C:\Users\color\Desktop\fashion-recommendation\data\images\10014.jpg
+10470,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011.0,Casual,Flying Machine Men Grey Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10470.jpg
+10642,Men,Apparel,Topwear,Tshirts,Red,Fall,2011.0,Casual,Doodle Boy D Print Red Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10642.jpg
+10821,Men,Apparel,Topwear,Shirts,Blue,Fall,2011.0,Casual,Wrangler Men Parma Reversible Blue Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10821.jpg
+10479,Men,Apparel,Topwear,Shirts,Red,Fall,2011.0,Casual,Flying Machine Men FS Red Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10479.jpg
+10680,Women,Accessories,Bags,Handbags,Blue,Fall,2011.0,Casual,United Colors of Benetton Blue Solid Sling Bag,C:\Users\color\Desktop\fashion-recommendation\data\images\10680.jpg
+10446,Men,Apparel,Topwear,Tshirts,Red,Fall,2011.0,Casual,Flying Machine Men Red Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10446.jpg
+10674,Women,Apparel,Topwear,Tops,White,Fall,2011.0,Casual,Doodle Girl Princess White Tops,C:\Users\color\Desktop\fashion-recommendation\data\images\10674.jpg
+10210,Women,Accessories,Bags,Handbags,Red,Winter,2015.0,Casual,Murcia Women Kkhh Red Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10210.jpg
+10022,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011.0,Sports,Nike Men Blue Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10022.jpg
+10228,Women,Accessories,Bags,Handbags,Green,Winter,2015.0,Casual,Murcia Women SLB Bag Green Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10228.jpg
+10826,Men,Apparel,Topwear,Tshirts,White,Fall,2011.0,Casual,Wrangler Men White Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10826.jpg
+10819,Men,Apparel,Topwear,Shirts,Black,Fall,2011.0,Casual,Wrangler Men City Work Black Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10819.jpg
+10025,Women,Apparel,Topwear,Tshirts,Pink,Fall,2011.0,Sports,Nike Women As Element Ja Pink T-Shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10025.jpg
+10217,Women,Accessories,Bags,Handbags,Pink,Winter,2015.0,Casual,Murcia Women Kkhh Pink Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10217.jpg
+10673,Women,Apparel,Topwear,Tops,Black,Fall,2011.0,Casual,Doodle Girl Ballet School Black Tops,C:\Users\color\Desktop\fashion-recommendation\data\images\10673.jpg
+10441,Men,Apparel,Topwear,Shirts,Purple,Fall,2011.0,Casual,Flying Machine Men FS Purple Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10441.jpg
+10243,Women,Accessories,Bags,Handbags,Red,Winter,2015.0,Casual,Murcia Women Emma Red Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10243.jpg
+10071,Women,Apparel,Topwear,Tshirts,White,Fall,2011.0,Casual,Puma Women bling blink tee White Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10071.jpg
+10415,Women,Apparel,Topwear,Tops,Beige,Fall,2011.0,Casual,United Colors of Benetton Women Printed Beige Tops,C:\Users\color\Desktop\fashion-recommendation\data\images\10415.jpg
+10627,Men,Footwear,Shoes,Casual Shoes,Brown,Winter,2012.0,Casual,Carlton London Men Brown Slip-On Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10627.jpg
+10618,Women,Footwear,Flip Flops,Flip Flops,Black,Spring,2013.0,Casual,Carlton London Women Casual Black Slippers,C:\Users\color\Desktop\fashion-recommendation\data\images\10618.jpg
+10872,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011.0,Casual,Wrangler Men Dirtcross Blue T-Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10872.jpg
+10886,Men,Apparel,Topwear,Tshirts,Cream,Fall,2011.0,Casual,Wrangler Men Cream Mark Your Territory T-shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10886.jpg
+10288,Women,Footwear,Shoes,Flats,Brown,Winter,2013.0,Casual,Clarks Women Shona Fringe Leather Brown Flats,C:\Users\color\Desktop\fashion-recommendation\data\images\10288.jpg
+10082,Women,Footwear,Shoes,Sports Shoes,Grey,Fall,2011.0,Sports,Reebok Women Aviator Grey Sports Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10082.jpg
+10620,Women,Footwear,Flip Flops,Flip Flops,Gold,Fall,2011.0,Casual,Carlton London Women Casual Gold Slippers,C:\Users\color\Desktop\fashion-recommendation\data\images\10620.jpg
+10412,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011.0,Casual,United Colors of Benetton Men Printed Grey Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10412.jpg
+10076,Women,Apparel,Topwear,Tshirts,Black,Fall,2011.0,Casual,Puma Women Large logo tee Black Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10076.jpg
+10244,Women,Accessories,Bags,Handbags,Beige,Winter,2015.0,Casual,Murcia Women Emma Beige Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10244.jpg
+10049,Men,Apparel,Topwear,Tshirts,Black,Fall,2011.0,Casual,Puma Men Mns Body Train Black Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10049.jpg
+10875,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011.0,Casual,Wrangler Men Motor City Grey T-Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10875.jpg
+10286,Men,Footwear,Shoes,Formal Shoes,Black,Fall,2012.0,Formal,Clarks Men Hang Tough Leather Black Formal Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10286.jpg
+10040,Men,Apparel,Topwear,Tshirts,White,Fall,2011.0,Sports,Nike Men White Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10040.jpg
+10272,Women,Footwear,Shoes,Heels,Grey,Fall,2012.0,Casual,Clarks Women Soma Silk Graphite Leather Grey Heels,C:\Users\color\Desktop\fashion-recommendation\data\images\10272.jpg
+10616,Women,Footwear,Flip Flops,Flip Flops,Gold,Fall,2011.0,Casual,Carlton London Women Glitterati Gold Slippers,C:\Users\color\Desktop\fashion-recommendation\data\images\10616.jpg
+10424,Women,Apparel,Topwear,Tshirts,Red,Fall,2011.0,Casual,United Colors of Benetton Women Red Polo T-shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10424.jpg
+10629,Men,Footwear,Shoes,Casual Shoes,Black,Fall,2011.0,Casual,Carlton London Men Casual Black Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10629.jpg
+10843,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011.0,Casual,Wrangler Men Grey T-shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10843.jpg
+10423,Men,Apparel,Topwear,Shirts,Grey,Fall,2011.0,Casual,United Colors of Benetton Men Checks Grey Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10423.jpg
+10611,Men,Apparel,Topwear,Shirts,Green,Fall,2011.0,Casual,Flying Machine Men FS Green Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10611.jpg
+10275,Men,Footwear,Shoes,Formal Shoes,Black,Summer,2013.0,Formal,Clarks Men Black Leather Derbys,C:\Users\color\Desktop\fashion-recommendation\data\images\10275.jpg
+10047,Men,Apparel,Topwear,Tshirts,Black,Fall,2011.0,Casual,Puma Men Heroes Graphic Black Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10047.jpg
+10281,Men,Footwear,Shoes,Formal Shoes,Black,Fall,2012.0,Formal,Clarks Men Hang Spring Leather Black Formal Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10281.jpg
+10078,Men,Footwear,Shoes,Sports Shoes,White,Fall,2011.0,Sports,Reebok Men Speed Mode White Sports Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10078.jpg
+10844,Men,Apparel,Topwear,Tshirts,Green,Fall,2011.0,Casual,Wrangler Men Cowboy Freedom Green T-Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10844.jpg
+10493,Women,Apparel,Topwear,Tshirts,White,Fall,2011.0,Casual,Flying Machine Women VN White Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10493.jpg
+10231,Women,Accessories,Bags,Handbags,Red,Winter,2015.0,Casual,Murcia Women Claudia Red Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10231.jpg
+10003,Women,Apparel,Topwear,Tshirts,White,Fall,2011.0,Sports,Nike Women As Nike Eleme White T-Shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10003.jpg
+10467,Men,Apparel,Topwear,Tshirts,Navy Blue,Fall,2011.0,Casual,Flying Machine Men Blue Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10467.jpg
+10655,Women,Apparel,Bottomwear,Skirts,Blue,Fall,2011.0,Casual,Doodle Girl Denim skirt with belt Blue Skirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10655.jpg
+10458,Men,Apparel,Topwear,Tshirts,Green,Fall,2011.0,Casual,Flying Machine Men Green Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10458.jpg
+10800,Men,Apparel,Topwear,Shirts,Blue,Fall,2011.0,Casual,Wrangler Men Wander Wheels Blue Shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10800.jpg
+10652,Women,Apparel,Bottomwear,Skirts,Blue,Fall,2011.0,Casual,Doodle Girl Denim skirt with belt Blue Skirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10652.jpg
+10460,Men,Apparel,Topwear,Tshirts,Green,Fall,2011.0,Casual,Flying Machine Green Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10460.jpg
+10004,Men,Apparel,Bottomwear,Shorts,Grey,Fall,2011.0,Sports,Nike Men As 7 Sw Temp Grey Shorts,C:\Users\color\Desktop\fashion-recommendation\data\images\10004.jpg
+10236,Men,Accessories,Watches,Watches,Orange,Winter,2016.0,Casual,Carrera Men Strap dial Orange Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10236.jpg
+10494,Women,Apparel,Topwear,Tshirts,Blue,Fall,2011.0,Casual,Flying Machine Women Blue Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10494.jpg
+10209,Women,Accessories,Bags,Handbags,Grey,Winter,2015.0,Casual,Murcia Women Kkhh Grey Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10209.jpg
+10807,Men,Apparel,Topwear,Shirts,Black,Fall,2011.0,Casual,Wrangler Men Stampede Printed Stripe Black Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10807.jpg
+10699,Women,Accessories,Watches,Watches,Orange,Winter,2016.0,Casual,Esprit Women Houston Yellow Ice Orange Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10699.jpg
+10032,Men,Apparel,Topwear,Tshirts,Black,Fall,2011.0,Sports,Nike Men AS FCB Core T Black T-shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10032.jpg
+10200,Women,Accessories,Bags,Handbags,Beige,Winter,2015.0,Casual,Murcia Women Emma Beige Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10200.jpg
+10664,Men,Apparel,Topwear,Tshirts,Yellow,Fall,2011.0,Casual,Doodle Boy Rockstar-sing it Yellow Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10664.jpg
+10456,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011.0,Casual,Flying Machine Men Grey Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10456.jpg
+10690,Men,Apparel,Topwear,Tshirts,Yellow,Fall,2011.0,Casual,Doodle Boy Mummy daddy me Yellow Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10690.jpg
+10469,Men,Apparel,Topwear,Tshirts,Yellow,Fall,2011.0,Casual,Flying Machine Men Yellow Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10469.jpg
+10831,Men,Apparel,Topwear,Tshirts,Navy Blue,Fall,2011.0,Casual,Wrangler Men American Music Folk Navy Blue T-Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10831.jpg
+10451,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011.0,Casual,Flying Machine Men Blue Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10451.jpg
+10207,Women,Accessories,Bags,Handbags,Brown,Winter,2015.0,Casual,Murcia Women Hths Brown Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10207.jpg
+10809,Men,Apparel,Topwear,Shirts,Black,Fall,2011.0,Casual,Wrangler Men Mark Rodeo Riveted Black Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10809.jpg
+10035,Men,Footwear,Shoes,Sports Shoes,Brown,Fall,2011.0,Sports,Reebok Men Runtone Action Brown Sports Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10035.jpg
+10836,Men,Apparel,Topwear,Tshirts,White,Fall,2011.0,Casual,Wrangler Men Urban Folk White T-Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10836.jpg
+10238,Men,Accessories,Watches,Watches,Steel,Winter,2016.0,Casual,Esprit Men Axis Day Steel Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10238.jpg
+10298,Women,Footwear,Shoes,Heels,White,Spring,2012.0,Casual,Clarks Women Soma Silk Leather White Heels,C:\Users\color\Desktop\fashion-recommendation\data\images\10298.jpg
+10862,Men,Apparel,Topwear,Tshirts,Yellow,Fall,2011.0,Casual,Wrangler Men Dirt Riders Yellow T-Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10862.jpg
+10608,Men,Accessories,Watches,Watches,White,Winter,2016.0,Casual,Puma Men Forcer 3HD White Dial Watch,C:\Users\color\Desktop\fashion-recommendation\data\images\10608.jpg
+10095,Men,Footwear,Shoes,Sports Shoes,Blue,Fall,2011.0,Sports,Reebok Men Reeflex Run Blue Sports Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10095.jpg
+10637,Men,Footwear,Shoes,Formal Shoes,Black,Winter,2014.0,Formal,Carlton London Men Formal Black Formal Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10637.jpg
+10405,Women,Apparel,Topwear,Tops,Black,Fall,2011.0,Casual,United Colors of Benetton Women Top Black Top,C:\Users\color\Desktop\fashion-recommendation\data\images\10405.jpg
+10061,Men,Apparel,Topwear,Tshirts,White,Fall,2011.0,Casual,Puma Men graphic story tee White Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10061.jpg
+10253,Women,Accessories,Bags,Handbags,Green,Winter,2015.0,Casual,Murcia Women Claudia Green Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10253.jpg
+10059,Men,Apparel,Topwear,Tshirts,Black,Fall,2011.0,Casual,Puma Men Black Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10059.jpg
+10865,Men,Apparel,Topwear,Tshirts,Yellow,Fall,2011.0,Casual,Wrangler Men Motor Rider Yellow T-Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10865.jpg
+10254,Women,Accessories,Bags,Handbags,Grey,Winter,2015.0,Casual,Murcia Women Hddcs Grey Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10254.jpg
+10066,Men,Apparel,Topwear,Tshirts,Black,Fall,2011.0,Casual,Puma Men Puma midrange tee Black Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10066.jpg
+10402,Women,Apparel,Topwear,Tops,Pink,Fall,2011.0,Casual,Jealous 21 Women Una Pink Tops,C:\Users\color\Desktop\fashion-recommendation\data\images\10402.jpg
+10630,Men,Footwear,Shoes,Casual Shoes,Navy Blue,Winter,2015.0,Casual,Carlton London Men Casual Navy Blue Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10630.jpg
+10092,Men,Footwear,Shoes,Sports Shoes,Silver,Fall,2011.0,Sports,Reebok Men Racehound Silver Sports Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10092.jpg
+10853,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011.0,Casual,Wrangler Men Blue Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10853.jpg
+10639,Men,Footwear,Shoes,Casual Shoes,Black,Fall,2011.0,Casual,Nike Men Nike Capri II Black Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10639.jpg
+10434,Men,Apparel,Topwear,Shirts,Blue,Fall,2011.0,Casual,Flying Machine Men Ydc Blue Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10434.jpg
+10606,Women,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Puma Women Temptation 93 Black Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10606.jpg
+10262,Men,Apparel,Bottomwear,Trousers,Black,Fall,2011.0,Formal,John Miller Men Black Trousers,C:\Users\color\Desktop\fashion-recommendation\data\images\10262.jpg
+10050,Men,Apparel,Topwear,Tshirts,Black,Fall,2011.0,Casual,Puma Men Usain Bolt Black Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10050.jpg
+10296,Men,Footwear,Shoes,Casual Shoes,Navy Blue,Summer,2016.0,Casual,Clarks Men Navy Blue Leather Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10296.jpg
+10068,Men,Apparel,Topwear,Tshirts,White,Fall,2011.0,Casual,Puma Men lifestyle graphitti White Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10068.jpg
+10854,Men,Apparel,Topwear,Tshirts,Green,Fall,2011.0,Casual,Wrangler Men Green Polo T-shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10854.jpg
+10057,Men,Apparel,Topwear,Tshirts,White,Fall,2011.0,Casual,Puma Men Tshirt Trning White Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10057.jpg
+10265,Men,Footwear,Shoes,Formal Shoes,Brown,Fall,2012.0,Formal,Clarks Men Goto Eat Tobacco Leather Brown Formal Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10265.jpg
+10601,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011.0,Sports,Nike Men Football Soccer Blue Jerseys,C:\Users\color\Desktop\fashion-recommendation\data\images\10601.jpg
+10433,Men,Apparel,Topwear,Shirts,Black,Fall,2011.0,Casual,Flying Machine Men Ydc Black Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10433.jpg
+10662,Men,Apparel,Topwear,Tshirts,Red,Fall,2011.0,Casual,Doodle Boy Travel Red Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10662.jpg
+10450,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011.0,Casual,Flying Machine Men Blue Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10450.jpg
+10034,Women,Apparel,Topwear,Tshirts,Black,Fall,2011.0,Sports,Nike Women As Element Ja Black T-Shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10034.jpg
+10239,Men,Accessories,Watches,Watches,Steel,Winter,2016.0,Casual,Esprit Men Grand Victory White Dial Steel Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10239.jpg
+10837,Men,Apparel,Topwear,Tshirts,Pink,Fall,2011.0,Casual,Wrangler Men Urban Folk Pink T-Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10837.jpg
+10691,Men,Apparel,Topwear,Tshirts,Green,Fall,2011.0,Casual,Doodle Boy Little Boy Green Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10691.jpg
+10033,Men,Apparel,Bottomwear,Shorts,Navy Blue,Fall,2011.0,Sports,Nike Men As Ad Breakli Navy Blue Shorts,C:\Users\color\Desktop\fashion-recommendation\data\images\10033.jpg
+10457,Men,Apparel,Topwear,Tshirts,Pink,Fall,2011.0,Casual,Flying Machine Men Pink Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10457.jpg
+10665,Men,Apparel,Topwear,Tshirts,Black,Fall,2011.0,Casual,Doodle Boy Extream Racer Black Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10665.jpg
+10468,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011.0,Casual,Flying Machine Men Blue Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10468.jpg
+10830,Men,Apparel,Topwear,Tshirts,White,Fall,2011.0,Casual,Wrangler Men White Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10830.jpg
+10495,Women,Apparel,Topwear,Shirts,Blue,Fall,2011.0,Casual,Flying Machine Women HS Blue Shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10495.jpg
+10461,Men,Apparel,Topwear,Tshirts,White,Fall,2011.0,Casual,Flying Machine Men White Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10461.jpg
+10237,Men,Accessories,Watches,Watches,Steel,Winter,2016.0,Casual,Esprit Men Croso Black Steel Watch,C:\Users\color\Desktop\fashion-recommendation\data\images\10237.jpg
+10005,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011.0,Sports,Nike Men As Ss Trainin Blue T-Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10005.jpg
+10839,Men,Apparel,Topwear,Tshirts,Navy Blue,Fall,2011.0,Casual,Wrangler Men N0. 3 Applique Polo Navy Blue T-Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10839.jpg
+10698,Women,Accessories,Watches,Watches,Red,Winter,2016.0,Casual,Esprit Women Houston Red Ice Red Watch,C:\Users\color\Desktop\fashion-recommendation\data\images\10698.jpg
+10806,Men,Apparel,Topwear,Shirts,Green,Fall,2011.0,Casual,Wrangler Men Stampede Printed Stripe Green Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10806.jpg
+10208,Women,Accessories,Bags,Handbags,Blue,Winter,2015.0,Casual,Murcia Women Hths Blue Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10208.jpg
+10002,Women,Apparel,Bottomwear,Skirts,Blue,Summer,2011.0,Casual,Palm Tree Kids Sp Jema Skt Blue Skirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10002.jpg
+10230,Women,Accessories,Bags,Handbags,Brown,Winter,2015.0,Casual,Murcia Women Claudia Brown Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10230.jpg
+10654,Women,Apparel,Bottomwear,Skirts,Blue,Fall,2011.0,Casual,Doodle Girl Denim skirt with belt Blue Skirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10654.jpg
+10466,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011.0,Casual,Flying Machine Men Grey Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10466.jpg
+10492,Women,Apparel,Topwear,Shirts,Orange,Fall,2011.0,Casual,Flying Machine Women HS Orange Shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10492.jpg
+10459,Men,Apparel,Topwear,Tshirts,Pink,Fall,2011.0,Casual,Flying Machine Men Fuschia Pink Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10459.jpg
+10801,Men,Apparel,Topwear,Shirts,Blue,Fall,2011.0,Casual,Wrangler Men August Stripe Look Checks Blue Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10801.jpg
+10855,Men,Apparel,Topwear,Tshirts,White,Fall,2011.0,Casual,Wrangler Men White Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10855.jpg
+10069,Men,Apparel,Topwear,Tshirts,Black,Fall,2011.0,Casual,Puma Men Large logo tee Black Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10069.jpg
+10264,Men,Footwear,Shoes,Formal Shoes,Black,Summer,2013.0,Formal,Clarks Men Goya Band Leather Black Formal Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10264.jpg
+10056,Men,Apparel,Bottomwear,Tracksuits,Black,Fall,2011.0,Sports,ADIDAS Men Cfc Pes Black Tracksuits,C:\Users\color\Desktop\fashion-recommendation\data\images\10056.jpg
+10432,Men,Apparel,Topwear,Shirts,Blue,Fall,2011.0,Casual,Flying Machine Men Ydc Blue Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10432.jpg
+10290,Women,Footwear,Shoes,Heels,Brown,Fall,2012.0,Casual,Clarks Women Shavi Knot Leather Brown Heels,C:\Users\color\Desktop\fashion-recommendation\data\images\10290.jpg
+10852,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011.0,Casual,Wrangler Men Blue Striped T-shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10852.jpg
+10638,Men,Footwear,Shoes,Formal Shoes,Brown,Fall,2011.0,Formal,Carlton London Men Formal Brown Formal Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10638.jpg
+10297,Men,Footwear,Shoes,Casual Shoes,Black,Fall,2012.0,Smart Casual,Clarks Men Black Leather Loafers,C:\Users\color\Desktop\fashion-recommendation\data\images\10297.jpg
+10607,Women,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Puma Women Temptation Black Watch,C:\Users\color\Desktop\fashion-recommendation\data\images\10607.jpg
+10435,Men,Apparel,Topwear,Shirts,Red,Fall,2011.0,Casual,Flying Machine Men HS Red Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10435.jpg
+10051,Men,Apparel,Topwear,Shirts,Navy Blue,Fall,2011.0,Casual,Puma Men Motorsport Navy Blue Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10051.jpg
+10263,Men,Footwear,Shoes,Formal Shoes,Black,Summer,2013.0,Formal,Clarks Men Energise Me Leather Black Formal Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10263.jpg
+10864,Men,Apparel,Topwear,Tshirts,White,Fall,2011.0,Casual,Wrangler Men True Riders White T-Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10864.jpg
+10058,Men,Apparel,Topwear,Tshirts,Black,Fall,2011.0,Casual,Puma Men Large logo tee Black Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10058.jpg
+10093,Men,Footwear,Shoes,Sports Shoes,White,Fall,2011.0,Sports,Reebok Men Racehound White Sports Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10093.jpg
+10067,Men,Apparel,Topwear,Tshirts,Yellow,Fall,2011.0,Casual,Puma Men punk logo tee Yellow Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10067.jpg
+10255,Men,Apparel,Topwear,Shirts,Blue,Fall,2011.0,Casual,Locomotive Men Stripes Blue Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10255.jpg
+10631,Men,Footwear,Shoes,Casual Shoes,Black,Spring,2013.0,Casual,Carlton London Men CL semi-cas Black Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10631.jpg
+10403,Women,Apparel,Topwear,Tops,Purple,Fall,2011.0,Casual,Jealous 21 Women Uri Purple Tops,C:\Users\color\Desktop\fashion-recommendation\data\images\10403.jpg
+10863,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011.0,Casual,Wrangler Men True Riders Blue T-Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10863.jpg
+10609,Women,Accessories,Watches,Watches,White,Winter,2016.0,Casual,Puma Women White Dial Chronograph Watch,C:\Users\color\Desktop\fashion-recommendation\data\images\10609.jpg
+10299,Women,Footwear,Shoes,Heels,Black,Fall,2013.0,Casual,Clarks Women Black Leather Wedges,C:\Users\color\Desktop\fashion-recommendation\data\images\10299.jpg
+10404,Women,Apparel,Topwear,Shirts,Black,Fall,2011.0,Casual,Jealous 21 Women Ummi Black Shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10404.jpg
+10636,Men,Footwear,Shoes,Casual Shoes,Green,Winter,2012.0,Casual,Carlton London Men Semi oxfords Green Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10636.jpg
+10252,Women,Accessories,Bags,Handbags,Brown,Winter,2015.0,Casual,Murcia Women SLB Bag Brown Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10252.jpg
+10060,Men,Apparel,Topwear,Tshirts,White,Fall,2011.0,Casual,Puma Men motor sport tee White Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10060.jpg
+10582,Men,Accessories,Watches,Watches,Steel,Winter,2016.0,Casual,Esprit Men Velocity Chrono Black Steel Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10582.jpg
+11034,Women,Apparel,Topwear,Tops,Red,Fall,2011.0,Casual,Jealous 21 Women Check Red Tops,C:\Users\color\Desktop\fashion-recommendation\data\images\11034.jpg
+10320,Women,Accessories,Bags,Handbags,White,Winter,2015.0,Casual,Murcia Women Mary White Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10320.jpg
+10112,Women,Footwear,Shoes,Sports Shoes,White,Fall,2011.0,Sports,Reebok Women Premier Zigfly White Sports Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10112.jpg
+10576,Men,Apparel,Topwear,Tshirts,Black,Fall,2011.0,Casual,Puma Men Lifestyle Graphitti Black T-shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10576.jpg
+10744,Unisex,Footwear,Flip Flops,Flip Flops,Navy Blue,Winter,2012.0,Casual,Disney Unisex Kids Pluto Navy Blue Flip Flops,C:\Users\color\Desktop\fashion-recommendation\data\images\10744.jpg
+10743,Unisex,Footwear,Flip Flops,Flip Flops,Red,Winter,2012.0,Casual,Disney Unisex Kids Only Mickey Red Flip Flops,C:\Users\color\Desktop\fashion-recommendation\data\images\10743.jpg
+10571,Men,Apparel,Topwear,Tshirts,Navy Blue,Fall,2011.0,Casual,Puma Men Rugby Navy Blue Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10571.jpg
+10115,Unisex,Footwear,Sandal,Sandals,Grey,Fall,2011.0,Casual,Reebok Unisex Adventure Sports Grey Sandals,C:\Users\color\Desktop\fashion-recommendation\data\images\10115.jpg
+10327,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Puma Men Slick Gents 3HD Black Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10327.jpg
+11033,Women,Apparel,Topwear,Tops,Red,Fall,2011.0,Casual,Jealous 21 Women Check Red Tops,C:\Users\color\Desktop\fashion-recommendation\data\images\11033.jpg
+10585,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Carrera Men Rubber strap dial Black Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10585.jpg
+10318,Women,Accessories,Watches,Watches,Steel,Winter,2016.0,Casual,Esprit Women Grace Two Tone Steel Watch,C:\Users\color\Desktop\fashion-recommendation\data\images\10318.jpg
+10788,Men,Apparel,Topwear,Shirts,White,Fall,2011.0,Casual,Wrangler Men Malbork White Shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10788.jpg
+10775,Unisex,Accessories,Bags,Backpacks,Olive,Winter,2015.0,Casual,Wildcraft Unisex Olive Green Backpack,C:\Users\color\Desktop\fashion-recommendation\data\images\10775.jpg
+11005,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Puma Men Visor 3HD Black Watch,C:\Users\color\Desktop\fashion-recommendation\data\images\11005.jpg
+10578,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011.0,Casual,Puma Men Large Logo Ringer Blue Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10578.jpg
+11002,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Puma Men Race Black Watch,C:\Users\color\Desktop\fashion-recommendation\data\images\11002.jpg
+10786,Unisex,Accessories,Headwear,Caps,Black,Fall,2011.0,Sports,Nike Unisex Runng Black Caps,C:\Users\color\Desktop\fashion-recommendation\data\images\10786.jpg
+10772,Boys,Footwear,Shoes,Casual Shoes,Navy Blue,Winter,2012.0,Casual,Disney Kids Navy Blue Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10772.jpg
+10316,Men,Accessories,Watches,Watches,Steel,Winter,2016.0,Casual,Esprit Men Pure Vitality Brown Steel Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10316.jpg
+10329,Women,Accessories,Watches,Watches,White,Winter,2016.0,Casual,Puma Women Pure Pliancy Gold White Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10329.jpg
+10389,Women,Accessories,Watches,Watches,White,Winter,2016.0,Casual,Puma Women Finesse 232 White Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10389.jpg
+10987,Men,Apparel,Topwear,Tshirts,Navy Blue,Fall,2011.0,Casual,Inkfruit Men Boyz Navy Blue Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10987.jpg
+11069,Men,Apparel,Topwear,Shirts,Black,Fall,2011.0,Casual,Scullers Men Check Black Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\11069.jpg
+10719,Women,Apparel,Bottomwear,Capris,Blue,Fall,2011.0,Casual,Nike Women Training Blue Capris,C:\Users\color\Desktop\fashion-recommendation\data\images\10719.jpg
+10184,Men,Apparel,Topwear,Shirts,White,Fall,2011.0,Casual,Indigo Nation Men  White Stripe Shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10184.jpg
+11056,Men,Apparel,Topwear,Shirts,Blue,Fall,2011.0,Casual,Scullers Men Check Blue Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\11056.jpg
+10726,Women,Accessories,Bags,Handbags,Brown,Winter,2015.0,Casual,Murcia Women Brown Brown Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10726.jpg
+10514,Women,Apparel,Topwear,Tops,Pink,Fall,2011.0,Casual,Flying Machine Women RN SL Pink Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10514.jpg
+10170,Men,Footwear,Shoes,Casual Shoes,Blue,Fall,2011.0,Casual,United Colors of Benetton Men Highlander Grey Blue Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10170.jpg
+10342,Women,Apparel,Topwear,Tops,Black,Fall,2011.0,Casual,United Colors of Benetton Women Printed Tunic Black Tops,C:\Users\color\Desktop\fashion-recommendation\data\images\10342.jpg
+10148,Men,Footwear,Shoes,Casual Shoes,Brown,Fall,2011.0,Casual,Rockport Men Sc Slip On Brown Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10148.jpg
+10345,Men,Apparel,Topwear,Tshirts,Black,Fall,2011.0,Casual,United Colors of Benetton Men Graphic Printed Black Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10345.jpg
+10177,Men,Footwear,Shoes,Casual Shoes,Brown,Fall,2011.0,Casual,United Colors Of Benetton Men Cboar Brown Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10177.jpg
+10513,Women,Apparel,Topwear,Tunics,White,Fall,2011.0,Casual,Flying Machine Women RN HS Tunic Top,C:\Users\color\Desktop\fashion-recommendation\data\images\10513.jpg
+10721,Men,Apparel,Topwear,Tshirts,White,Fall,2011.0,Sports,Nike Men Runng Mens tshirt White Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10721.jpg
+10183,Women,Footwear,Shoes,Casual Shoes,White,Fall,2011.0,Casual,Puma Women Future Cat Ballistic Jr White Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10183.jpg
+11051,Men,Apparel,Topwear,Shirts,White,Fall,2011.0,Casual,Scullers Men Check White Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\11051.jpg
+10728,Women,Accessories,Bags,Handbags,Brown,Winter,2015.0,Casual,Murcia Women Dusvatar Coffee Brown Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10728.jpg
+11058,Men,Apparel,Topwear,Shirts,Purple,Fall,2011.0,Casual,Scullers Men Check Purple Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\11058.jpg
+10717,Women,Apparel,Topwear,Tops,Purple,Fall,2011.0,Sports,Nike Women Trainng sports bra Purple Tops,C:\Users\color\Desktop\fashion-recommendation\data\images\10717.jpg
+10373,Men,Apparel,Topwear,Tshirts,Black,Fall,2011.0,Casual,United Colors of Benetton Men Solid Black Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10373.jpg
+11093,Women,Apparel,Topwear,Sweaters,White,Fall,2011.0,Casual,Scullers Women Knit White Sweaters,C:\Users\color\Desktop\fashion-recommendation\data\images\11093.jpg
+10141,Women,Accessories,Watches,Watches,Gold,Winter,2016.0,Casual,Esprit Women Houston White Gold Links Gold Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10141.jpg
+10387,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Puma Men Indication  178 Black Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10387.jpg
+10989,Women,Apparel,Topwear,Tshirts,Purple,Fall,2011.0,Casual,Inkfruit Women Mementos Purple Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10989.jpg
+11067,Men,Apparel,Topwear,Shirts,Blue,Fall,2011.0,Formal,John Miller Men Stripes Blue Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\11067.jpg
+10179,Men,Footwear,Flip Flops,Flip Flops,Blue,Fall,2011.0,Casual,United Colors of Benetton Men Speeder Blue Flip Flops,C:\Users\color\Desktop\fashion-recommendation\data\images\10179.jpg
+10380,Men,Apparel,Topwear,Shirts,Black,Fall,2011.0,Casual,United Colors of Benetton Men Solid Black Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10380.jpg
+11094,Women,Apparel,Topwear,Sweaters,Black,Fall,2011.0,Casual,Scullers Women Stripes Black Sweaters,C:\Users\color\Desktop\fashion-recommendation\data\images\11094.jpg
+10146,Men,Footwear,Shoes,Formal Shoes,Black,Fall,2011.0,Formal,Rockport Men Drsp Moc Front Black Formal Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10146.jpg
+10374,Women,Apparel,Topwear,Tshirts,Green,Fall,2011.0,Casual,United Colors of Benetton Women Solid Green T-shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10374.jpg
+10710,Women,Apparel,Topwear,Tshirts,Orange,Fall,2011.0,Casual,Nike Women Trainng short sleeve tshirt Orange Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10710.jpg
+10773,Women,Accessories,Bags,Handbags,Red,Winter,2016.0,Casual,Fastrack Red Printed Tote Bag,C:\Users\color\Desktop\fashion-recommendation\data\images\10773.jpg
+10125,Women,Footwear,Shoes,Sports Shoes,White,Summer,2012.0,Sports,Reebok Women Premier Zigfly White Sports Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10125.jpg
+10317,Women,Accessories,Watches,Watches,Silver,Winter,2016.0,Casual,Esprit Women Purple Silicon Silver Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10317.jpg
+11003,Men,Accessories,Watches,Watches,Red,Winter,2016.0,Casual,Puma Men Fluctuation Red Dial Watch,C:\Users\color\Desktop\fashion-recommendation\data\images\11003.jpg
+10787,Men,Apparel,Topwear,Shirts,Green,Fall,2011.0,Casual,Wrangler Men Galway Placket Label Check Shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10787.jpg
+10328,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Sports,Puma Men Spin Gents Black Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10328.jpg
+11004,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Puma Men Track Black Watch,C:\Users\color\Desktop\fashion-recommendation\data\images\11004.jpg
+10122,Men,Footwear,Shoes,Sports Shoes,White,Fall,2011.0,Sports,Reebok Men Run Sheer White Sports Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10122.jpg
+10774,Unisex,Accessories,Bags,Backpacks,Olive,Winter,2015.0,Casual,Wildcraft Unisex Olive Green Backpack,C:\Users\color\Desktop\fashion-recommendation\data\images\10774.jpg
+10579,Men,Apparel,Topwear,Tshirts,Black,Fall,2011.0,Casual,Puma Men Black Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10579.jpg
+11032,Women,Apparel,Topwear,Shirts,Blue,Fall,2011.0,Casual,Jealous 21 Women Check Blue Shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\11032.jpg
+10584,Men,Accessories,Watches,Watches,Yellow,Winter,2016.0,Casual,Carrera Men Sporty Rubber Strap Yellow Watch,C:\Users\color\Desktop\fashion-recommendation\data\images\10584.jpg
+10570,Men,Apparel,Topwear,Tshirts,Orange,Fall,2011.0,Casual,Puma Men Rugby Orange Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10570.jpg
+10742,Women,Footwear,Shoes,Casual Shoes,Orange,Winter,2012.0,Casual,Disney Kids Girl Pooh Face Orange Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10742.jpg
+10326,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Puma Men Strom Agitation Gents Black Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10326.jpg
+10114,Unisex,Footwear,Sandal,Sports Sandals,Black,Fall,2013.0,Casual,Reebok Unisex Black Sports Sandals,C:\Users\color\Desktop\fashion-recommendation\data\images\10114.jpg
+10789,Men,Apparel,Topwear,Shirts,Red,Fall,2011.0,Casual,Wrangler Men Manitoba Piping Red Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10789.jpg
+10319,Women,Accessories,Watches,Watches,Steel,Winter,2016.0,Casual,Esprit Women Cool Chic Brown Steel Watch,C:\Users\color\Desktop\fashion-recommendation\data\images\10319.jpg
+10113,Men,Footwear,Shoes,Sports Shoes,White,Fall,2011.0,Sports,Reebok Men Run Sheer White Sports Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10113.jpg
+10321,Women,Accessories,Bags,Handbags,Black,Winter,2015.0,Casual,Murcia Women TMK Black Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10321.jpg
+10577,Women,Apparel,Topwear,Tshirts,Black,Fall,2011.0,Casual,Puma Women's Ess Black Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10577.jpg
+10583,Men,Accessories,Watches,Watches,Gold,Winter,2016.0,Formal,Esprit Men Nova Genesis Brown Gold Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10583.jpg
+11035,Women,Apparel,Topwear,Shirts,Purple,Fall,2011.0,Casual,Jealous 21 Women Check Purple Shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\11035.jpg
+10178,Men,Footwear,Shoes,Casual Shoes,Brown,Fall,2011.0,Casual,United Colors of Benetton Men Bournie Brown Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10178.jpg
+11095,Women,Apparel,Topwear,Sweaters,Black,Fall,2011.0,Casual,Scullers Women Knit Black Sweaters,C:\Users\color\Desktop\fashion-recommendation\data\images\11095.jpg
+10147,Men,Footwear,Shoes,Formal Shoes,Black,Fall,2011.0,Formal,Rockport Men Ed Plaintoe Black Formal Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10147.jpg
+10711,Women,Apparel,Topwear,Tshirts,White,Fall,2011.0,Casual,Nike Women White Casual T-shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10711.jpg
+10381,Men,Apparel,Topwear,Shirts,Blue,Fall,2011.0,Formal,United Colors of Benetton Men Solid Blue Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10381.jpg
+11059,Men,Apparel,Topwear,Shirts,Green,Fall,2011.0,Casual,John Miller Men Green Check Shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\11059.jpg
+10729,Women,Accessories,Bags,Handbags,Black,Winter,2015.0,Casual,Murcia Women Lorra Black Black Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10729.jpg
+10988,Women,Apparel,Topwear,Tshirts,Pink,Fall,2011.0,Casual,Inkfruit Women Flying Advantures Pink Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10988.jpg
+10386,Women,Accessories,Watches,Watches,White,Winter,2016.0,Casual,Puma Women Vitality Gold Stones  169 White Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10386.jpg
+10716,Women,Apparel,Innerwear,Bra,White,Fall,2011.0,Sports,Nike Women Training Sports Bra,C:\Users\color\Desktop\fashion-recommendation\data\images\10716.jpg
+11092,Men,Apparel,Topwear,Shirts,Red,Fall,2011.0,Casual,Scullers Men Check Red Shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\11092.jpg
+10140,Women,Accessories,Watches,Watches,Silver,Winter,2016.0,Casual,Esprit Women Rocks Houston Black Silver Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10140.jpg
+10372,Men,Apparel,Topwear,Tshirts,Beige,Fall,2011.0,Casual,United Colors of Benetton Men Printed Beige Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10372.jpg
+10149,Men,Footwear,Shoes,Formal Shoes,Brown,Fall,2011.0,Formal,Rockport Men Ed Plaintoe Brown Formal Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10149.jpg
+10182,Women,Footwear,Shoes,Casual Shoes,White,Fall,2011.0,Casual,Puma Women Style Cat White Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10182.jpg
+11050,Men,Apparel,Topwear,Shirts,Red,Fall,2011.0,Casual,Scullers Men Check Red Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\11050.jpg
+10176,Men,Footwear,Shoes,Casual Shoes,Black,Fall,2011.0,Casual,United Colors of Benetton Men Cloud 9 Black Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10176.jpg
+10344,Men,Apparel,Topwear,Tshirts,Purple,Fall,2011.0,Casual,United Colors of Benetton Men Solid Purple Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10344.jpg
+10720,Men,Apparel,Bottomwear,Shorts,White,Summer,2011.0,Sports,Nike Men Ftbll/Socc shorts White Shorts,C:\Users\color\Desktop\fashion-recommendation\data\images\10720.jpg
+10512,Women,Apparel,Topwear,Tops,Blue,Fall,2011.0,Casual,Flying Machine Women RN HS Blue Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10512.jpg
+10718,Women,Apparel,Topwear,Tops,Orange,Fall,2011.0,Sports,Nike Women Trainng sports bra Orange Tops,C:\Users\color\Desktop\fashion-recommendation\data\images\10718.jpg
+10388,Women,Accessories,Watches,Watches,Pink,Winter,2016.0,Casual,Puma Women Pliancy 199 Pink Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10388.jpg
+10727,Women,Accessories,Bags,Handbags,Brown,Winter,2015.0,Casual,Murcia Women Dusvatar Brown Brown Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10727.jpg
+10343,Women,Apparel,Topwear,Tshirts,Blue,Fall,2011.0,Casual,United Colors of Benetton Women Solid Blue Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10343.jpg
+10171,Men,Footwear,Shoes,Formal Shoes,Brown,Fall,2011.0,Formal,United Colors of Benetton Men vertigo Brown Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10171.jpg
+10185,Men,Apparel,Topwear,Shirts,White,Fall,2011.0,Casual,Indigo Nation Men Price catch White Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10185.jpg
+11057,Men,Apparel,Topwear,Shirts,Purple,Fall,2011.0,Casual,Scullers Men Check Purple Shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\11057.jpg
+11081,Men,Apparel,Topwear,Shirts,Red,Fall,2011.0,Casual,Scullers Men Check Red Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\11081.jpg
+10153,Men,Footwear,Shoes,Formal Shoes,Brown,Fall,2011.0,Formal,Rockport Men Drsp SLip On Brown Formal Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10153.jpg
+10361,Men,Apparel,Topwear,Tshirts,Purple,Fall,2011.0,Casual,United Colors of Benetton Men Graphic Printed Purple Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10361.jpg
+10705,Women,Accessories,Watches,Watches,Silver,Winter,2016.0,Casual,Esprit Women Twist Black Houston Silver Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10705.jpg
+11075,Men,Apparel,Topwear,Sweaters,Blue,Fall,2011.0,Casual,Scullers Men Stripes Blue Sweaters,C:\Users\color\Desktop\fashion-recommendation\data\images\11075.jpg
+10395,Men,Accessories,Watches,Watches,Red,Winter,2016.0,Sports,Puma Men Cardiac II Red Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10395.jpg
+10508,Women,Apparel,Topwear,Tops,Black,Fall,2011.0,Casual,Flying Machine Women RN SL Black Top,C:\Users\color\Desktop\fashion-recommendation\data\images\10508.jpg
+10198,Women,Accessories,Bags,Handbags,Beige,Winter,2015.0,Casual,Murcia Women Hddcs Beige Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10198.jpg
+10392,Women,Accessories,Watches,Watches,White,Winter,2016.0,Casual,Puma Women Pure Pliancy 258 White Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10392.jpg
+11072,Men,Apparel,Topwear,Shirts,Black,Fall,2011.0,Casual,Scullers Men Check Black Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\11072.jpg
+10702,Women,Accessories,Watches,Watches,Steel,Winter,2016.0,Casual,Esprit Women Lissomy Glam Silver Black Steel Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10702.jpg
+10366,Women,Apparel,Bottomwear,Skirts,Black,Fall,2011.0,Casual,United Colors of Benetton Women Solid Black Skirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10366.jpg
+11086,Men,Apparel,Topwear,Shirts,Green,Fall,2011.0,Casual,Scullers Men Check Green Shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\11086.jpg
+10154,Men,Footwear,Shoes,Casual Shoes,Brown,Fall,2011.0,Casual,Rockport Men Bal Brown Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10154.jpg
+10359,Men,Apparel,Topwear,Tshirts,White,Fall,2011.0,Casual,United Colors of Benetton Men Printed White Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10359.jpg
+10196,Women,Accessories,Bags,Handbags,Green,Winter,2015.0,Casual,Murcia Women Hddcs Green Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10196.jpg
+11044,Men,Apparel,Topwear,Shirts,White,Fall,2011.0,Casual,Scullers Men Check White Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\11044.jpg
+10350,Women,Apparel,Topwear,Tshirts,Purple,Fall,2011.0,Casual,United Colors of Benetton Women Applique Work Purple T-shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10350.jpg
+10162,Men,Footwear,Shoes,Casual Shoes,White,Fall,2011.0,Casual,Puma Men 917 Lo Paint Splatter White Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10162.jpg
+10506,Women,Apparel,Topwear,Tops,Red,Fall,2011.0,Casual,Flying Machine Women Fuschia Red Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10506.jpg
+10734,Women,Accessories,Bags,Handbags,Green,Winter,2015.0,Casual,Murcia Women Mcc Green Green Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10734.jpg
+10995,Men,Apparel,Topwear,Tshirts,Black,Fall,2011.0,Casual,Inkfruit Men Respest Me Black Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10995.jpg
+10733,Women,Accessories,Bags,Handbags,Purple,Winter,2015.0,Casual,Murcia Women Mcc Purple Purple Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10733.jpg
+10501,Women,Apparel,Topwear,Tshirts,White,Fall,2011.0,Casual,Flying Machine Women RN HS White T-shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10501.jpg
+10357,Men,Apparel,Topwear,Tshirts,Maroon,Fall,2011.0,Casual,United Colors of Benetton Men Maroon Polo Tshirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10357.jpg
+11043,Men,Apparel,Topwear,Shirts,White,Fall,2011.0,Casual,Scullers Men Check White Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\11043.jpg
+11088,Men,Apparel,Topwear,Shirts,Green,Fall,2011.0,Casual,Scullers Men Check Green Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\11088.jpg
+10992,Men,Apparel,Topwear,Tshirts,Purple,Fall,2011.0,Casual,Inkfruit Men Dust Rider Purple Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10992.jpg
+10758,Girls,Footwear,Shoes,Casual Shoes,Blue,Winter,2012.0,Casual,Disney Kids Girls Princess Heart Blue Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10758.jpg
+11028,Women,Apparel,Topwear,Tunics,Blue,Fall,2011.0,Casual,Wrangler Women Blue Kangroo Pocket Tunic,C:\Users\color\Desktop\fashion-recommendation\data\images\11028.jpg
+10767,Unisex,Footwear,Flip Flops,Flip Flops,White,Winter,2012.0,Casual,Disney Unisex Kids Basic White Flip Flops,C:\Users\color\Desktop\fashion-recommendation\data\images\10767.jpg
+10303,Men,Footwear,Shoes,Sandals,Brown,Summer,2016.0,Casual,Clarks Men Brown Leather Sandals,C:\Users\color\Desktop\fashion-recommendation\data\images\10303.jpg
+10131,Women,Accessories,Watches,Watches,Steel,Winter,2016.0,Casual,Esprit Women Romain Brown Steel Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10131.jpg
+11017,Women,Apparel,Topwear,Tops,Blue,Fall,2011.0,Casual,Wrangler Women Floral Print Blue Top,C:\Users\color\Desktop\fashion-recommendation\data\images\11017.jpg
+10793,Men,Apparel,Topwear,Shirts,Red,Fall,2011.0,Casual,Wrangler Men Authentic Rope Embro Red Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10793.jpg
+10599,Unisex,Accessories,Headwear,Caps,White,Fall,2011.0,Sports,Nike Unisex Tennis White Caps,C:\Users\color\Desktop\fashion-recommendation\data\images\10599.jpg
+10109,Women,Accessories,Watches,Watches,Steel,Winter,2016.0,Casual,Fastrack Women Denim Analogue Steel Watch,C:\Users\color\Desktop\fashion-recommendation\data\images\10109.jpg
+10794,Men,Apparel,Topwear,Shirts,Navy Blue,Fall,2011.0,Casual,Wrangler Men Warnick Square Block Navy Blue Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10794.jpg
+11010,Women,Apparel,Topwear,Tops,Purple,Fall,2011.0,Casual,Wrangler Women Smocked Yoke Purple Tops,C:\Users\color\Desktop\fashion-recommendation\data\images\11010.jpg
+10136,Women,Accessories,Watches,Watches,Steel,Winter,2016.0,Casual,Esprit Women Pure Vitality Black Steel Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10136.jpg
+10304,Men,Footwear,Sandal,Sandals,Black,Fall,2011.0,Casual,Clarks Men Vieri Deck Leather Black Sandals,C:\Users\color\Desktop\fashion-recommendation\data\images\10304.jpg
+10760,Unisex,Footwear,Flip Flops,Flip Flops,Red,Winter,2012.0,Casual,Disney Unisex Kids Basic Red Flip Flops,C:\Users\color\Desktop\fashion-recommendation\data\images\10760.jpg
+11019,Women,Apparel,Topwear,Shirts,Purple,Fall,2011.0,Casual,Wrangler Women Check Purple Shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\11019.jpg
+10769,Unisex,Footwear,Flip Flops,Flip Flops,White,Winter,2012.0,Casual,Disney Unisex Kids Basic White Flip Flops,C:\Users\color\Desktop\fashion-recommendation\data\images\10769.jpg
+11026,Women,Apparel,Topwear,Tops,Navy Blue,Fall,2011.0,Casual,Wrangler Women Navy Blue Top,C:\Users\color\Desktop\fashion-recommendation\data\images\11026.jpg
+10756,Women,Footwear,Shoes,Casual Shoes,Red,Winter,2012.0,Casual,Disney Kids Welding Red Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10756.jpg
+10564,Men,Apparel,Topwear,Tshirts,White,Fall,2011.0,Casual,Puma Men Large Logo Ringer White Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10564.jpg
+10332,Men,Accessories,Belts,Belts,Brown,Fall,2011.0,Casual,Indigo Nation Men cataclasite Brown Belts,C:\Users\color\Desktop\fashion-recommendation\data\images\10332.jpg
+10138,Women,Accessories,Watches,Watches,Silver,Winter,2016.0,Casual,Esprit Women Spark Pink Silver Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10138.jpg
+10335,Women,Apparel,Topwear,Tops,Pink,Fall,2011.0,Casual,United Colors of Benetton Women Striped Magenta Top,C:\Users\color\Desktop\fashion-recommendation\data\images\10335.jpg
+10107,Men,Accessories,Watches,Watches,Steel,Winter,2016.0,Casual,Fastrack Men Analogue Leather Steel Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10107.jpg
+10563,Men,Apparel,Topwear,Tshirts,Black,Fall,2011.0,Casual,Puma Men Large Logo Ringer Black Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10563.jpg
+10751,Men,Apparel,Bottomwear,Track Pants,Grey,Fall,2011.0,Sports,Nike Men Breakline Grey Track Pants,C:\Users\color\Desktop\fashion-recommendation\data\images\10751.jpg
+10597,Men,Apparel,Bottomwear,Jeans,Blue,Fall,2011.0,Casual,Flying Machine Men Skinny Jack Blue Jeans,C:\Users\color\Desktop\fashion-recommendation\data\images\10597.jpg
+11021,Women,Apparel,Topwear,Tshirts,Black,Fall,2011.0,Casual,Wrangler Women Freedom Spirit Black T-Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\11021.jpg
+10190,Men,Apparel,Topwear,Shirts,White,Fall,2011.0,Casual,Indigo Nation Men Club Poplin White Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10190.jpg
+11042,Men,Apparel,Topwear,Shirts,Purple,Fall,2011.0,Casual,Scullers Men Check Purple Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\11042.jpg
+10500,Women,Apparel,Dress,Dresses,Navy Blue,Fall,2011.0,Casual,Flying Machine Women OS Blue Tops,C:\Users\color\Desktop\fashion-recommendation\data\images\10500.jpg
+10732,Women,Accessories,Bags,Handbags,Red,Winter,2015.0,Casual,Murcia Women Lorra Red Red Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10732.jpg
+10356,Men,Apparel,Topwear,Shirts,Blue,Fall,2011.0,Casual,United Colors of Benetton Men Solid Blue Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10356.jpg
+10164,Men,Accessories,Watches,Watches,Green,Winter,2016.0,Casual,Carrera Men Green strap witrh green dial Green Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10164.jpg
+10993,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011.0,Casual,Inkfruit Men Tea Kwon Do Grey Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10993.jpg
+11089,Men,Apparel,Topwear,Shirts,Blue,Fall,2011.0,Casual,Scullers Men Blue Check Shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\11089.jpg
+10369,Men,Apparel,Topwear,Shirts,Blue,Fall,2011.0,Casual,United Colors of Benetton Men Checks Blue Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10369.jpg
+10351,Women,Apparel,Bottomwear,Skirts,Grey,Fall,2011.0,Casual,United Colors of Benetton Women Check Skirt Grey Skirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10351.jpg
+10735,Women,Accessories,Bags,Handbags,Black,Winter,2015.0,Casual,Murcia Women Mcc Black Black Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10735.jpg
+10507,Women,Apparel,Topwear,Tshirts,Pink,Fall,2011.0,Casual,Flying Machine Women Pink Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10507.jpg
+10197,Women,Accessories,Bags,Handbags,Brown,Winter,2015.0,Casual,Murcia Women Hddcs Brown Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10197.jpg
+11045,Men,Apparel,Topwear,Shirts,White,Fall,2011.0,Casual,Scullers Men Check White Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\11045.jpg
+10994,Men,Apparel,Topwear,Tshirts,Black,Fall,2011.0,Casual,Inkfruit Men Near Future Black Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10994.jpg
+11087,Men,Apparel,Topwear,Shirts,Green,Fall,2011.0,Casual,Scullers Men Green Check Shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\11087.jpg
+10155,Men,Footwear,Shoes,Casual Shoes,Brown,Fall,2011.0,Casual,Rockport Men Tr Bal Brown Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10155.jpg
+10367,Men,Apparel,Topwear,Shirts,Purple,Fall,2011.0,Casual,United Colors of Benetton Men Checks Purple Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10367.jpg
+11073,Men,Apparel,Topwear,Sweaters,Black,Fall,2011.0,Casual,Scullers Men Stripes Black Sweaters,C:\Users\color\Desktop\fashion-recommendation\data\images\11073.jpg
+10393,Women,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Puma Women Spark 351 Black Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10393.jpg
+10358,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011.0,Casual,United Colors of Benetton Men Solid Polo Blue Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10358.jpg
+10394,Men,Accessories,Watches,Watches,Red,Winter,2016.0,Sports,Puma Men Cardiac Red Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10394.jpg
+11074,Men,Apparel,Topwear,Sweaters,Black,Fall,2011.0,Casual,Scullers Men Stripes Blue Sweaters,C:\Users\color\Desktop\fashion-recommendation\data\images\11074.jpg
+10360,Women,Apparel,Dress,Dresses,Black,Fall,2011.0,Casual,United Colors of Benetton Women Black Dress,C:\Users\color\Desktop\fashion-recommendation\data\images\10360.jpg
+11080,Men,Apparel,Topwear,Shirts,Green,Fall,2011.0,Casual,Scullers Men Check Green Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\11080.jpg
+10152,Men,Footwear,Shoes,Casual Shoes,Black,Fall,2011.0,Casual,Rockport Men TR Bal Black Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10152.jpg
+10704,Women,Accessories,Watches,Watches,Steel,Winter,2016.0,Casual,Esprit Women Organic Pretty Black Houston Steel Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10704.jpg
+10199,Women,Accessories,Bags,Handbags,Black,Winter,2015.0,Casual,Murcia Women Emma Black Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10199.jpg
+10509,Women,Apparel,Topwear,Tshirts,White,Fall,2011.0,Casual,Flying Machine Women RN HS White Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10509.jpg
+10139,Women,Accessories,Watches,Watches,Steel,Winter,2016.0,Casual,Esprit Women Cool Chic Night Steel Watch,C:\Users\color\Desktop\fashion-recommendation\data\images\10139.jpg
+10596,Women,Accessories,Watches,Watches,Green,Winter,2016.0,Casual,Esprit Women Houston Funky Green Green Watch,C:\Users\color\Desktop\fashion-recommendation\data\images\10596.jpg
+11020,Women,Apparel,Topwear,Tshirts,Pink,Fall,2011.0,Casual,Wrangler Women Pink Freedom Spirit T-shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\11020.jpg
+10106,Women,Accessories,Watches,Watches,Steel,Winter,2016.0,Casual,Fastrack Women Essentials Steel Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10106.jpg
+10334,Men,Accessories,Belts,Belts,Black,Fall,2011.0,Casual,Indigo Nation Men diorite Black Belts,C:\Users\color\Desktop\fashion-recommendation\data\images\10334.jpg
+10750,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011.0,Sports,Nike Men Remix Crew Blue Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10750.jpg
+10768,Unisex,Footwear,Flip Flops,Flip Flops,Pink,Winter,2012.0,Casual,Disney Unisex Kids Basic Pink Flip Flops,C:\Users\color\Desktop\fashion-recommendation\data\images\10768.jpg
+11018,Women,Apparel,Topwear,Shirts,Red,Fall,2011.0,Casual,Wrangler Women Check Red Shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\11018.jpg
+10565,Men,Apparel,Topwear,Tshirts,Black,Fall,2011.0,Casual,Puma Men Heritage Black Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10565.jpg
+10757,Unisex,Footwear,Flip Flops,Flip Flops,Pink,Winter,2012.0,Casual,Disney Unisex Kids Princess Heart Pink Flip Flops,C:\Users\color\Desktop\fashion-recommendation\data\images\10757.jpg
+10333,Men,Accessories,Belts,Belts,Brown,Fall,2011.0,Casual,Indigo Nation Men chert Brown Belts,C:\Users\color\Desktop\fashion-recommendation\data\images\10333.jpg
+10101,Men,Footwear,Shoes,Sports Shoes,Black,Fall,2011.0,Sports,Reebok Men Island Explorer Black Sports Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10101.jpg
+11027,Women,Apparel,Topwear,Tshirts,Purple,Fall,2011.0,Casual,Wrangler Women Poloroid Purple T-Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\11027.jpg
+10108,Women,Accessories,Watches,Watches,Steel,Winter,2016.0,Casual,Fastrack Women Denim Analogue Steel Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10108.jpg
+10598,Women,Apparel,Topwear,Shirts,Blue,Fall,2011.0,Casual,Flying Machine Women HS Blue Denim Shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10598.jpg
+10305,Men,Footwear,Shoes,Casual Shoes,Black,Fall,2011.0,Casual,Clarks Men Rocco Fuse Brown Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10305.jpg
+10137,Women,Accessories,Watches,Watches,Steel,Winter,2016.0,Casual,Esprit Women Lissomy Brown Steel Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10137.jpg
+10761,Unisex,Footwear,Flip Flops,Flip Flops,Red,Winter,2012.0,Casual,Disney Unisex Kids Basic Red Flip Flops,C:\Users\color\Desktop\fashion-recommendation\data\images\10761.jpg
+10795,Men,Apparel,Topwear,Shirts,Navy Blue,Fall,2011.0,Casual,Wrangler Men Warnick Square Block Navy Blue Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10795.jpg
+11011,Women,Apparel,Topwear,Tops,Blue,Fall,2011.0,Casual,Wrangler Women Smocked Yoke Blue Tops,C:\Users\color\Desktop\fashion-recommendation\data\images\11011.jpg
+11029,Women,Apparel,Topwear,Tops,Purple,Fall,2011.0,Casual,Jealous 21 Women Check Purple Tops,C:\Users\color\Desktop\fashion-recommendation\data\images\11029.jpg
+10759,Unisex,Footwear,Flip Flops,Flip Flops,Pink,Winter,2012.0,Casual,Disney Unisex Kids Mini Mouse Pink Flip Flops,C:\Users\color\Desktop\fashion-recommendation\data\images\10759.jpg
+11016,Women,Apparel,Topwear,Tops,Pink,Fall,2011.0,Casual,Wrangler Women Floral Print Pink Top,C:\Users\color\Desktop\fashion-recommendation\data\images\11016.jpg
+10792,Men,Apparel,Topwear,Shirts,Red,Fall,2011.0,Casual,Wrangler Men Authentic Rope Embro Red Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10792.jpg
+10766,Unisex,Footwear,Flip Flops,Flip Flops,Yellow,Winter,2012.0,Casual,Disney Unisex Kids Basic Yellow Flip Flops,C:\Users\color\Desktop\fashion-recommendation\data\images\10766.jpg
+10130,Women,Accessories,Watches,Watches,Steel,Winter,2016.0,Casual,Esprit Women Pure E-Ffect Black Steel Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10130.jpg
+10302,Men,Footwear,Shoes,Formal Shoes,Brown,Spring,2012.0,Formal,Clarks Men Leather Brown Formal Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10302.jpg
+10042,Women,Apparel,Topwear,Tshirts,Pink,Fall,2011.0,Sports,Nike Women Pink Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10042.jpg
+10270,Women,Footwear,Shoes,Flats,Silver,Fall,2012.0,Casual,Clarks Women Shona Fringe Leather Silver Flats,C:\Users\color\Desktop\fashion-recommendation\data\images\10270.jpg
+10426,Men,Apparel,Topwear,Tshirts,Black,Fall,2011.0,Casual,United Colors of Benetton Men Polo Black Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10426.jpg
+10284,Women,Footwear,Shoes,Flats,White,Fall,2012.0,Casual,Clarks Women Leather White Flats,C:\Users\color\Desktop\fashion-recommendation\data\images\10284.jpg
+10089,Women,Footwear,Shoes,Sports Shoes,Silver,Fall,2011.0,Sports,Reebok Women Raceon Silver Sports Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10089.jpg
+10283,Men,Footwear,Sandal,Sandals,Black,Fall,2012.0,Casual,Clarks Men Unstructured Leather Black Sandals,C:\Users\color\Desktop\fashion-recommendation\data\images\10283.jpg
+10421,Men,Apparel,Topwear,Shirts,Blue,Fall,2011.0,Casual,United Colors of Benetton Men Solid Blue Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10421.jpg
+10613,Women,Footwear,Shoes,Casual Shoes,White,Spring,2013.0,Casual,Carlton London Women Casual White Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10613.jpg
+10277,Men,Footwear,Shoes,Formal Shoes,Black,Spring,2012.0,Smart Casual,Clarks Men Black Leather Semiformal Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10277.jpg
+10879,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011.0,Casual,Wrangler Men Grey T-shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10879.jpg
+10045,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011.0,Casual,Puma Men Heroes Party Graphic Blue Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10045.jpg
+10846,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011.0,Casual,Wrangler Men Falcon Print Blue T-Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10846.jpg
+10248,Women,Accessories,Bags,Handbags,Brown,Winter,2015.0,Casual,Murcia Women Asjke Coffee Brown Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10248.jpg
+10241,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Esprit Men Momentum Black Black Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10241.jpg
+10073,Women,Apparel,Topwear,Tshirts,Purple,Fall,2011.0,Casual,Puma Women cat line tee Purple Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10073.jpg
+10884,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011.0,Casual,Wrangler Men Grey Glow In Dark T-shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10884.jpg
+10428,Women,Apparel,Topwear,Tops,Black,Fall,2011.0,Casual,United Colors of Benetton Women Solid Black Tops,C:\Users\color\Desktop\fashion-recommendation\data\images\10428.jpg
+10870,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011.0,Casual,Wrangler Men Fly The Wind Blue T-Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10870.jpg
+10622,Women,Footwear,Flip Flops,Flip Flops,Green,Fall,2011.0,Casual,Carlton London Women Casual Green Slippers,C:\Users\color\Desktop\fashion-recommendation\data\images\10622.jpg
+10410,Men,Apparel,Topwear,Tshirts,White,Fall,2011.0,Casual,United Colors of Benetton Men Solid White Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10410.jpg
+10848,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011.0,Casual,Wrangler Men Blue T-shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10848.jpg
+10074,Men,Apparel,Topwear,Tshirts,Black,Fall,2011.0,Casual,Puma Men Puma runhard tee Black Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10074.jpg
+10246,Women,Accessories,Bags,Handbags,Brown,Winter,2015.0,Casual,Murcia Women Zoe Brown Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10246.jpg
+10080,Men,Footwear,Shoes,Sports Shoes,Black,Fall,2011.0,Sports,Reebok Men Run Sheer Black Sports Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10080.jpg
+10279,Men,Footwear,Shoes,Casual Shoes,Black,Fall,2012.0,Casual,Clarks Men Nature Easy Leather Black Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10279.jpg
+10877,Men,Apparel,Topwear,Tshirts,Navy Blue,Fall,2011.0,Casual,Wrangler Men Navy Blue Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10877.jpg
+10883,Men,Apparel,Topwear,Tshirts,Beige,Fall,2011.0,Casual,Wrangler Men American Photo Print Beige T-shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10883.jpg
+10823,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011.0,Casual,Wrangler Men Grey Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10823.jpg
+10649,Boys,Apparel,Topwear,Shirts,White,Fall,2011.0,Casual,Doodle Boys Grand Prix White Shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10649.jpg
+10444,Men,Apparel,Topwear,Shirts,Blue,Fall,2011.0,Casual,Flying Machine Men Ydc Aqua Green Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10444.jpg
+10676,Women,Apparel,Topwear,Tops,Red,Fall,2011.0,Casual,Doodle Girl Bubbles Red Tops,C:\Users\color\Desktop\fashion-recommendation\data\images\10676.jpg
+10020,Men,Apparel,Bottomwear,Shorts,Black,Summer,2012.0,Sports,Nike Men Black & White Reversible Shorts,C:\Users\color\Desktop\fashion-recommendation\data\images\10020.jpg
+10682,Men,Apparel,Topwear,Tshirts,Tan,Fall,2011.0,Casual,United Colors of Benetton Men Printed Tan T-shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10682.jpg
+10488,Men,Apparel,Bottomwear,Jeans,Blue,Fall,2011.0,Casual,Flying Machine Blue Jeans,C:\Users\color\Desktop\fashion-recommendation\data\images\10488.jpg
+10018,Men,Apparel,Bottomwear,Shorts,Black,Fall,2012.0,Sports,Nike Men Black Three Quarter Track Pants,C:\Users\color\Desktop\fashion-recommendation\data\images\10018.jpg
+10824,Men,Apparel,Topwear,Tshirts,White,Fall,2011.0,Casual,Wrangler Men White Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10824.jpg
+10685,Women,Apparel,Topwear,Tops,White,Fall,2011.0,Casual,Doodle Girl Little Princess White Tops,C:\Users\color\Desktop\fashion-recommendation\data\images\10685.jpg
+10027,Women,Apparel,Topwear,Tshirts,White,Fall,2011.0,Sports,Nike Women's White Tshirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10027.jpg
+10215,Women,Accessories,Bags,Handbags,Purple,Winter,2015.0,Casual,Murcia Women Hths Purple Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10215.jpg
+10671,Boys,Apparel,Bottomwear,Shorts,Green,Fall,2011.0,Casual,Doodle Boy Army  Green Shorts,C:\Users\color\Desktop\fashion-recommendation\data\images\10671.jpg
+10443,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011.0,Casual,Flying Machine Men Blue Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10443.jpg
+10812,Men,Apparel,Topwear,Shirts,Brown,Fall,2011.0,Casual,Wrangler Men Wales Slim Hb Brown Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10812.jpg
+10678,Women,Apparel,Topwear,Tops,White,Fall,2011.0,Casual,Doodle Girl Super stylish White Tops,C:\Users\color\Desktop\fashion-recommendation\data\images\10678.jpg
+10481,Men,Apparel,Topwear,Shirts,Blue,Fall,2011.0,Casual,Flying Machine Men Ydc Blue Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10481.jpg
+10647,Women,Apparel,Topwear,Tops,Pink,Fall,2011.0,Casual,Doodle Girl Little Princess Pink Tops,C:\Users\color\Desktop\fashion-recommendation\data\images\10647.jpg
+10475,Men,Apparel,Topwear,Shirts,Brown,Fall,2011.0,Casual,Flying Machine Men FS Solid Brown Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10475.jpg
+10011,Men,Apparel,Bottomwear,Track Pants,Grey Melange,Summer,2012.0,Sports,Nike Men Grey Melange Track Pants,C:\Users\color\Desktop\fashion-recommendation\data\images\10011.jpg
+10223,Women,Accessories,Bags,Handbags,Green,Winter,2015.0,Casual,Murcia Women Zoe Green Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10223.jpg
+10029,Women,Apparel,Topwear,Sweatshirts,Navy Blue,Fall,2011.0,Sports,Nike Women As Script Mas Navy Blue Sweatshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10029.jpg
+10815,Men,Apparel,Topwear,Shirts,Blue,Fall,2011.0,Casual,Wrangler Men Rain Light Denim Blue Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10815.jpg
+10224,Women,Accessories,Bags,Handbags,Brown,Winter,2015.0,Casual,Murcia Women Asjke Brown Brown Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10224.jpg
+10016,Women,Apparel,Dress,Dresses,Pink,Summer,2011.0,Casual,Palm Tree Girl's Cr Blossom Drs Pink Dresses,C:\Users\color\Desktop\fashion-recommendation\data\images\10016.jpg
+10472,Men,Apparel,Topwear,Tshirts,Purple,Fall,2011.0,Casual,Flying Machine Men HS Purple Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10472.jpg
+10640,Men,Footwear,Shoes,Casual Shoes,Black,Fall,2011.0,Sports,Nike Men Nike Elite Black Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10640.jpg
+10486,Men,Apparel,Topwear,Tshirts,Black,Fall,2011.0,Casual,Flying Machine Men Black Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10486.jpg
+10081,Men,Footwear,Shoes,Sports Shoes,White,Fall,2011.0,Sports,Reebok Men Zigdynamic White Sports Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10081.jpg
+10411,Women,Apparel,Topwear,Tshirts,Purple,Fall,2011.0,Casual,United Colors of Benetton Women Printed Purple T-shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10411.jpg
+10623,Women,Footwear,Flip Flops,Flip Flops,Gold,Fall,2011.0,Casual,Carlton London Women Glitterati Gold Slippers,C:\Users\color\Desktop\fashion-recommendation\data\images\10623.jpg
+10247,Women,Accessories,Bags,Handbags,Brown,Winter,2015.0,Casual,Murcia Women Zoe Brown Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10247.jpg
+10075,Men,Apparel,Topwear,Tshirts,Red,Fall,2011.0,Casual,Puma Men ducati heritage logo tee Red Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10075.jpg
+10849,Men,Apparel,Topwear,Tshirts,Maroon,Fall,2011.0,Casual,Wrangler Men Famous Filafil Maroon T-Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10849.jpg
+10882,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011.0,Casual,Wrangler Men Blue American Photo Print T-shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10882.jpg
+10876,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011.0,Casual,Wrangler Men Motor City Grey T-Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10876.jpg
+10278,Men,Footwear,Shoes,Casual Shoes,Brown,Fall,2011.0,Casual,Clarks Men Nature Easy Mahogany Leather Brown Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10278.jpg
+10072,Women,Apparel,Topwear,Tshirts,White,Fall,2011.0,Casual,Puma Women poster tee White Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10072.jpg
+10240,Men,Accessories,Watches,Watches,Copper,Winter,2016.0,Casual,Esprit Men Gran Orbit Rosegold Copper Watches,C:\Users\color\Desktop\fashion-recommendation\data\images\10240.jpg
+10624,Women,Footwear,Shoes,Heels,Copper,Fall,2011.0,Casual,Carlton London Women Glitterati Copper Platforms,C:\Users\color\Desktop\fashion-recommendation\data\images\10624.jpg
+10429,Women,Apparel,Topwear,Tops,Black,Fall,2011.0,Casual,United Colors of Benetton Women Solid Black Top,C:\Users\color\Desktop\fashion-recommendation\data\images\10429.jpg
+10871,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011.0,Casual,Wrangler Men Dirtcross Grey T-Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10871.jpg
+10885,Men,Apparel,Topwear,Tshirts,Teal,Fall,2011.0,Casual,Wrangler Men Glow in Dark Teal T-shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10885.jpg
+10612,Men,Apparel,Topwear,Shirts,Maroon,Fall,2011.0,Casual,Flying Machine Men Ydc Maroon Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10612.jpg
+10044,Men,Apparel,Topwear,Tshirts,Black,Fall,2011.0,Casual,Puma Men Ferrari Logo Black Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10044.jpg
+10878,Men,Apparel,Topwear,Tshirts,Red,Fall,2011.0,Casual,Wrangler Men Red Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10878.jpg
+10276,Men,Footwear,Shoes,Formal Shoes,Black,Fall,2011.0,Formal,Clarks Men Leather Black Formal Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10276.jpg
+10282,Women,Footwear,Shoes,Flats,Black,Winter,2013.0,Casual,Clarks Women Spice Pat Black Flats,C:\Users\color\Desktop\fashion-recommendation\data\images\10282.jpg
+10249,Women,Accessories,Bags,Handbags,Brown,Winter,2015.0,Casual,Murcia Women Hahk Brown Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10249.jpg
+10285,Men,Footwear,Shoes,Formal Shoes,Black,Fall,2012.0,Formal,Clarks Men Goya Rates Leather Black Formal Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10285.jpg
+10271,Women,Footwear,Shoes,Heels,Red,Fall,2012.0,Casual,Clarks Women Sona Silk Leather Red Heels,C:\Users\color\Desktop\fashion-recommendation\data\images\10271.jpg
+10043,Men,Apparel,Topwear,Tshirts,Black,Fall,2011.0,Casual,Puma Men ferrari Black Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10043.jpg
+10427,Men,Apparel,Topwear,Shirts,Red,Fall,2011.0,Casual,United Colors of Benetton Men Checks Red Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10427.jpg
+10615,Women,Footwear,Shoes,Casual Shoes,Cream,Fall,2011.0,Casual,Carlton London Women balle Grey Casual Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10615.jpg
+10088,Men,Footwear,Shoes,Sports Shoes,Silver,Fall,2011.0,Sports,Reebok Men Racehound Silver Sports Shoes,C:\Users\color\Desktop\fashion-recommendation\data\images\10088.jpg
+10418,Women,Apparel,Topwear,Tops,Black,Fall,2011.0,Casual,United Colors of Benetton Women Solid Black Tops,C:\Users\color\Desktop\fashion-recommendation\data\images\10418.jpg
+10840,Men,Apparel,Topwear,Tshirts,Green,Fall,2011.0,Casual,Wrangler Men Green Polo T-shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10840.jpg
+10814,Men,Apparel,Topwear,Shirts,Purple,Fall,2011.0,Casual,Wrangler Men Easter Bright Amslar Purple Shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10814.jpg
+10028,Women,Apparel,Topwear,Tshirts,White,Fall,2011.0,Sports,Nike Women As Club Jerse White T-Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10028.jpg
+10487,Men,Apparel,Bottomwear,Jeans,Blue,Fall,2011.0,Casual,Flying Machine Men Midrise Blue Jeans,C:\Users\color\Desktop\fashion-recommendation\data\images\10487.jpg
+10017,Women,Apparel,Topwear,Jackets,Blue,Fall,2011.0,Sports,Nike Women As The Windru Blue Jackets,C:\Users\color\Desktop\fashion-recommendation\data\images\10017.jpg
+10225,Women,Accessories,Bags,Handbags,Beige,Winter,2015.0,Casual,Murcia Women Hahk Beige Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10225.jpg
+10641,Men,Apparel,Topwear,Tshirts,Red,Fall,2011.0,Casual,Doodle Boy D Print Red T-shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10641.jpg
+10473,Men,Apparel,Topwear,Shirts,Grey,Fall,2011.0,Casual,Flying Machine Men FS Solid Grey Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10473.jpg
+10813,Men,Apparel,Topwear,Shirts,Black,Fall,2011.0,Casual,Wrangler Men Dirt Rider Check Black Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10813.jpg
+10474,Men,Apparel,Topwear,Shirts,Black,Fall,2011.0,Casual,Flying Machine Men Ydc Black Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10474.jpg
+10646,Men,Apparel,Topwear,Tshirts,Red,Fall,2011.0,Casual,Doodle Boy Athlethic Red Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10646.jpg
+10222,Women,Accessories,Bags,Handbags,Grey,Winter,2015.0,Casual,Murcia Women Zoe Grey Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10222.jpg
+10010,Men,Apparel,Topwear,Tshirts,Black,Fall,2011.0,Sports,Nike Men As Showdown F Black T-Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10010.jpg
+10480,Men,Apparel,Topwear,Shirts,Yellow,Fall,2011.0,Casual,Flying Machine Men SS Yellow Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10480.jpg
+10825,Men,Apparel,Topwear,Tshirts,Green,Fall,2011.0,Casual,Wrangler Men Green Polo T-shirt,C:\Users\color\Desktop\fashion-recommendation\data\images\10825.jpg
+10019,Women,Apparel,Topwear,Tshirts,White,Fall,2011.0,Sports,Nike Women As Miler Ss White T-Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10019.jpg
+10489,Men,Apparel,Bottomwear,Jeans,Blue,Winter,2016.0,Casual,Flying Machine Men Midrise Blue Jeans,C:\Users\color\Desktop\fashion-recommendation\data\images\10489.jpg
+10214,Women,Accessories,Bags,Handbags,Brown,Winter,2015.0,Casual,Murcia Women Rubena Brown Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10214.jpg
+10026,Women,Apparel,Topwear,Tshirts,Black,Fall,2011.0,Sports,Nike Women As Challenger Black T-Shirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10026.jpg
+10442,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011.0,Casual,Flying Machine Men HS True Blue Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10442.jpg
+10670,Men,Apparel,Topwear,Tshirts,Black,Fall,2011.0,Casual,Doodle Boy Stop global warming Black Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10670.jpg
+10684,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011.0,Casual,Doodle Boy Athlethic Blue Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10684.jpg
+10822,Men,Apparel,Topwear,Tshirts,Navy Blue,Fall,2011.0,Casual,Wrangler Men Navy Blue Polo Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10822.jpg
+10683,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011.0,Casual,Doodle Boy Athlethic Blue Tshirts,C:\Users\color\Desktop\fashion-recommendation\data\images\10683.jpg
+10677,Women,Apparel,Topwear,Tops,Pink,Fall,2011.0,Casual,Doodle Girl Flap doodle angel Pink Tops,C:\Users\color\Desktop\fashion-recommendation\data\images\10677.jpg
+10445,Men,Apparel,Bottomwear,Jeans,Blue,Fall,2011.0,Casual,Flying Machine Men Midrise Blue Jeans,C:\Users\color\Desktop\fashion-recommendation\data\images\10445.jpg
+10021,Men,Apparel,Bottomwear,Shorts,White,Spring,2013.0,Sports,Nike Men As Woven Shor White Shorts,C:\Users\color\Desktop\fashion-recommendation\data\images\10021.jpg
+10213,Women,Accessories,Bags,Handbags,Black,Winter,2015.0,Casual,Murcia Women Hahk Black Handbags,C:\Users\color\Desktop\fashion-recommendation\data\images\10213.jpg

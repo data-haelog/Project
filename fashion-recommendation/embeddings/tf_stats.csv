@@ -1,0 +1,2 @@
+framework,model,total_images,successful_images,failed_images,success_rate,processing_time_seconds,avg_time_per_image,batch_size,feature_dim,tensorflow_version
+TensorFlow,ResNet50,861,861,0,100.0,88.35063791275024,0.10261398131562166,32,2048,2.20.0-rc0

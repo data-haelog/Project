@@ -1,0 +1,2 @@
+framework,model,total_images,successful_images,failed_images,success_rate,processing_time_seconds,avg_time_per_image,batch_size,num_workers,feature_dim,device,pytorch_version
+PyTorch,ResNet50,861,861,0,100.0,68.44471669197083,0.0794944444738337,16,0,2048,cpu,2.8.0+cpu
